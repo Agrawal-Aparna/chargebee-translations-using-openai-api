@@ -1,0 +1,5 @@
+key,value,reference value,description
+dy.email_template_setting.notes,,,Notes for the Email Template Setting
+dy.email_template_setting.portal_notes,,,Portal Notes for the Email Template Setting
+dy.email_template_setting.portal_link_text,,,Portal Link Text for the Email Template Setting
+dy.email_template_setting.footer_notes,,"<p>Du kan alltids kontakte oss på <a href=""mailto:info&#64;lexolve.com"">info&#64;lexolve.</a>com eller i chatten.<br />Nettside: <a href=""https://lexolve.com"">lexolve.com<br /></a>Dashboard: <a href=""https://dashboard.lexolve.com"">dashboard.lexolve.com</a></p>",Footer Notes for the Email Template Setting

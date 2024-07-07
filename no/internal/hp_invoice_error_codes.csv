@@ -1,0 +1,22 @@
+key,value,reference value,description
+invalid_charge_start_and_end,Ugyldig tidsperiode angitt. line_item.date_from må være før line_item.date_to,Invalid term period passed. line_item.date_from must be before line_item.date_to,Invalid term period passed. line_item.date_from must be before line_item.date_to
+max_size_reached,Overskredet maksimal grense for kortbetalinger som skal refunderes,Exceeded maximum limit of card payments to refund,Exceeded maximum limit of card payments to refund
+hp_product_type_mismatch,"Beklager, vi kan ikke behandle forespørselen din. Vennligst ta kontakt med selgeren/forhandleren","Sorry, we are unable process your request. Please get in touch with the seller/merchant.","Sorry, we are unable process your request. Please get in touch with the seller/merchant."
+refund_amount_too_big,Angitt beløp er større enn den tillatte grensen ''{0}'',"Specified amount is greater than the allowed limit ''{0}'' ",The refund amount is greater than the invoice amount
+invoice_price_type,Alle linjeelementer skal være av samme pristype (Eksklusiv skatt/ Inklusiv skatt),All lineitem should of same price type(Tax Exclusive/ Tax Inclusive).,All lineitem should of same price type(Tax Exclusive/ Tax Inclusive).
+referenced_line_item_not_found,Den refererte kostnadslinjevaren {0} er ikke knyttet til faktura {1}.,The referenced charge line item {0} is not attached to invoice {1},The referenced charge line item {0} is not attached to invoice {1}
+refund_failed,Refusjonsoperasjonen mislyktes. Feilmelding: {0}.,Refund operation failed. Error message: {0},Refund operation failed. Error message: {0}
+operation_failed,{0},{0},{0}
+apply_on_line_item_not_found,Den refererte kostnadslinjevaren {0} er ikke knyttet til fakturaen.,The referenced charge line item {0} is not attached to invoice,The referenced charge line item {0} is not attached to invoice
+invoice.operation_not_suppoerted,{0},{0},{0}
+address_change_not_supported,Adressen kan ikke endres da det endrer den anvendte skatten,Address cannot be changed as it changes the applied tax,Address cannot be changed as it changes the applied tax
+xero_build_inprogress,Xero-integrasjonen er midlertidig deaktivert for vedlikehold. Dette bør være over om noen minutter. Vennligst prøv igjen senere,Xero integration is temporarily disabled for maintenance. This should be over in few minutes. Please try after sometime.,Xero integration is temporarily disabled for maintenance. This should be over in few minutes. Please try after sometime.
+invalid_invoice_amount,Fakturabeløp {0} skal være større enn null,Invoice Amount {0} should be greater than zero,Invoice Amount {0} should be greater than zero
+record_payment_not_supported,{0},{0},{0}
+recurring_addon_not_supported,Gjentakende tillegg kan ikke legges til i ventende faktura,Recurring addon cannot be added to pending invoice.,Recurring addon cannot be added to pending invoice.
+invalid_payment_amount,{0},{0},{0}
+invalid_invoice_state,{0},{0},{0}
+xero_disabled,Xero-integrasjonen er deaktivert for nettstedet ditt. Vennligst kontakt support@chargebee.com for ytterligere detaljer og assistanse,Xero integration is disabled for your site. Please contact support@chargebee.com for further details and assistance.,Xero integration is disabled for your site. Please contact support@chargebee.com for further details and assistance.
+no_card_present_for_refund,Kan ikke behandle forespørselen da betalingsmetoden som ble brukt for denne transaksjonen har blitt godkjent,Cannot process request as the payment method used for this transaction has been cleared.,Cannot process request as the payment method used for this transaction has been cleared.
+insufficient card payments,Operasjonen kan ikke fortsette siden kundenes forskjellige kortbetalinger krever refusjon,Operation cannot be proceed since customers different card payments are required to refund,Operation cannot be proceed since customers different card payments are required to refund
+product_type_mismatch,Du kan ikke fakturere både digitale og ikke-digitale produkter med samme faktura,You cannot bill both digital and non-digital products using the same invoice.,You cannot bill both digital and non-digital products using the same invoice.

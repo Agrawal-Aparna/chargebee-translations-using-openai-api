@@ -1,0 +1,7 @@
+key,value,reference value,description
+static.email_template_setting.portal_link_text,Logg inn på kontoen din nå &rarr;,"Log into your account now &rarr;
+",Portal Link Text for the Email Template Setting
+static.email_template_setting.portal_notes,"Se betalinger, oppdater dem eller administrer kontoen din på kundeportalen din","View payments, update them or manage your account on your customer portal.
+",Portal Notes for the Email Template Setting
+static.email_template_setting.footer_notes,"PS: Vi håper du nyter opplevelsen med oss! Som alltid, ikke nøl med å ta kontakt med oss. Vi vil gjerne høre fra deg","<p><b>PS:</b> We hope you're enjoying your experience with us! As always, feel free to reach out to us. We'd love to hear from you.</p>
+",Footer Notes for the Email Template Setting

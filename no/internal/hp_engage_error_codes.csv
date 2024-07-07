@@ -1,0 +1,4 @@
+key,value,reference value,description
+not_in_extend_sub_state,Operasjon tillatt kun for ikke-fornyende abonnement,Operation allowed only for non-renewing subscription,Operation allowed only for non-renewing subscription
+extend_sub_click_from_link,Du må prøve igjen ved å klikke på lenken i e-posten vi sendte,You need to try again by clicking the link in the email we sent,You need to try again by clicking the link in the email we sent
+extend_sub_not_allowed_forever_sub,Utvidelse av abonnement er ikke tillatt for evig abonnement,Extend subscription not allowed for forever subscription,Extend subscription not allowed for forever subscription

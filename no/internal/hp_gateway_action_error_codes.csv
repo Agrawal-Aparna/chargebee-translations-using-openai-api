@@ -1,0 +1,27 @@
+key,value,reference value,description
+zero_decimal_update_gateway,Å bruke {0} gateway med den konfigurerte valutaen er ikke tillatt,Using {0} gateway with the configured currency is not allowed.,Using {0} gateway with the configured currency is not allowed.
+paypal_not_supported,Valgt valuta støttes ikke siden du har konfigurert PayPal Express Checkout,Selected currency is not supported since you have configured PayPal Express Checkout.,Selected currency is not supported since you have configured PayPal Express Checkout.
+paypal_setup_error,En feil oppstod under omdirigering til PayPal,An error occured while redirecting to PayPal.,An error occured while redirecting to PayPal.
+gateway_credential_missing,Problem med å behandle betalingen din. Vennligst prøv igjen etter en stund,Problem in processing your payment. Please try after some time.,Problem in processing your payment. Please try after some time.
+zero_decimal_update_site,Chargebee støtter ikke den valgte valutaen med {0} gateway,Chargebee doesn''t support the selected currency with {0} gateway.,Chargebee doesn''t support the selected currency with {0} gateway.
+default_gateway_not_configured,Standard betalingsgateway er ikke konfigurert,Default payment gateway not configured.,Default payment gateway not configured.
+payment_gateway_not_configured,Denne operasjonen støttes ikke da det ikke er konfigurert noen betalingsgateway,This operation is not supported as there is no payment gateway configured.,This operation is not supported as there is no payment gateway configured.
+gateway_not_supported_for_mcp,Chargebee støtter ikke flervalutafunksjonen for {0} gateway,Chargebee doesn''t support multicurrency feature for {0} gateway.,Chargebee doesn''t support multicurrency feature for {0} gateway.
+gateway_configuration_failed,Du har ikke gitt noen tekst å oversette. Vennligst gi en tekst for oversettelse,{0}.,{0}.
+forbidden_to_remove,Betalingsportalen kan ikke fjernes da det er aktive abonnementer,Payment gateway cannot be removed as there are active subscriptions.,Payment gateway cannot be removed as there are active subscriptions.
+gateway_already_configured,Denne gatewayen er allerede konfigurert for nettstedet. Sannsynlig grunn: {0},This gateway is already configured for the site. Probable reason: {0},This gateway is already configured for the site. Probable reason: {0}
+currency_not_supported,Valutaen som er konfigurert i Chargebee støttes ikke av {0},Currency configured in Chargebee is not supported by {0}.,Currency configured in Chargebee is not supported by {0}.
+invalid_credential_with_message,{0},{0},{0}
+gw_credential_verification_failed,{0},{0},{0}
+gateway_down_with_message,Kommunikasjonsfeil oppstod da vi prøvde å kontakte gatewayen. Vennligst prøv igjen etter en stund. Sannsynlig grunn: {0},Communication failure occurred when trying to contact the gateway. Please try after some time. Probable reason: {0},Communication failure occurred when trying to contact the gateway. Please try after some time. Probable reason: {0}
+wepay_not_supported,Wepay-gateway støttes ikke for denne operasjonen,wepay gateway is not supported for this operation.,wepay gateway is not supported for this operation.
+delete_card_error,Det oppstod et problem under sletting av betalingsmetoden. Vennligst prøv igjen etter en stund,Problem occurred while deleting the payment method. Please try after some time.,Problem occurred while deleting the payment method. Please try after some time.
+gateway_in_active_state,Betalingsportalen er allerede i aktiv tilstand,Payment gateway is already in active state,Payment gateway is already in active state
+remove_archived_gw_not_supported,Betalingsportalen kan ikke fjernes da den er arkivert,Payment gateway cannot be removed as it is archived.,Payment gateway cannot be removed as it is archived.
+bank_account_payment_gateway_not_configured,Denne operasjonen støttes ikke da det ikke er konfigurert noen betalingsgateway for bankkonto,This operation is not supported as there is no payment gateway configured for bank account.,This operation is not supported as there is no payment gateway configured for bank account.
+empty_card_type_list,Aksepterte korttyper kan ikke være tomme,Accepted Card types cannot not be empty,Accepted Card types cannot not be empty
+default_gateway_not_supported,Standardalternativet støttes ikke for denne gatewayen,Default option is not supported for this gateway.,Default option is not supported for this gateway.
+gateway_not_supported,Valgt valuta støttes ikke siden du har konfigurert {0},Selected currency is not supported since you have configured {0}.,Selected currency is not supported since you have configured {0}.
+gateway_down,Kommunikasjonsfeil oppstod da vi prøvde å kontakte gatewayen. Vennligst prøv igjen etter en stund,Communication failure occurred when trying to contact the gateway. Please try after some time,Communication failure occurred when trying to contact the gateway. Please try after some time
+gocardless_redirect_error,En feil oppstod under omdirigering til GoCardless,An error occured while redirecting to GoCardless.,An error occured while redirecting to GoCardless.
+invalid_credential,Vennligst sjekk de innsendte legitimasjonene. Ikke i stand til å få tilgang til gatewayen,Please check the submitted credentials. Not able to access the gateway.,Please check the submitted credentials. Not able to access the gateway.

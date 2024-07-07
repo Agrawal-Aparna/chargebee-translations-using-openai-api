@@ -1,0 +1,34 @@
+key,value,reference value,description
+invoice.transaction.voided_on,Annullert den %{date},Voided on %{date}.,Voided on date
+invoice.transaction.credit_applied_with_cn_number,%{amount} kreditt tildelt fra kreditnota '%{cn_number}' den %{date},%{amount} credit allocated from credit note '%{cn_number}' on %{date}.,Amount credit allocated from credit note number on date
+transaction.payment_method.via_pm,via %{payment_method}," via %{payment_method}.",via payment method type
+constants.invoice_customization.reverse_charge_msg,MVA er ikke aktuelt på denne fakturaen fordi et gyldig MVA-registreringsnummer ble oppgitt og omvendt avgiftsplikt er anvendt,VAT is not applicable on this invoice because a valid VAT registration number was provided and the reverse charge mechanism has been applied.,default reverse charge message
+invoice.transaction.refunded_completed,%{amount} ble refundert den %{date},%{amount} was refunded on %{date},Amount refunded on date
+invoice.footer.title.payments,Betalinger,Payments,Payment footer title
+transaction.payment_method.offline_payment,Offline betaling,Offline Payment,Payment through other channels
+transaction.payment_method.to_card_null,til kort," to Card.",payment with card
+constants.invoice_customization.vat_exemption_note_export_uk,"Vær oppmerksom på at siden Storbritannia ikke lenger er en del av EU, er tjenestene våre utenfor omfanget av britisk merverdiavgift","Please note that as the UK is no longer part of the EU, our services are outside the scope of UK VAT.",VAT Export Note for UK
+transaction.payment_method.to_card,til %{card_type} kort som slutter på %{last4_digits}," to %{card_type} card ending %{last4_digits}.",payment with card
+invoice.footer.title.credits,Kreditter,Credits,Credits footer title
+constants.invoice_customization.quote_reverse_charge_msg,MVA er ikke aktuelt på denne %{quote_title} fordi et gyldig MVA-registreringsnummer ble oppgitt og omvendt avgiftsplikt er anvendt,VAT is not applicable on this %{quote_title} because a valid VAT registration number was provided and the reverse charge mechanism has been applied.,default reverse charge message
+invoice.transaction.chargeback_text,En tilbakeføring på %{amount} er registrert som refusjon den %{date},A chargeback of %{amount} has been recorded as refund on %{date},A chargeback recorded on a date
+constants.invoice_customization.vat_exemption_note_export,Denne eksporttransaksjonen er unntatt fra merverdiavgift i henhold til artikkel 146 i EU-direktivet om merverdiavgift,This export transaction is exempt from VAT as per Article 146 of the EU VAT Directive.," VAT Exemption for Export"
+transaction.payment_method.via_card_wallet_pm,via %{payment_method} ( %{card_type} kort som slutter på %{last4_digits} )," via  %{payment_method} ( %{card_type} card ending %{last4_digits} ).",via payment method type
+invoice.transaction.adjustment_with_cn_number,%{amount} tildelt fra kreditnota '%{cn_number}' den %{date},%{amount} allocated from credit note '%{cn_number}' on %{date}.,Amount allocated from credit note number on date
+transaction.payment_method.by_pm,med %{payment_method}," by %{payment_method}.",by payment method type
+invoice.footer.title.exchange_rate,Valutakurs,Exchange Rate,Exchange Rate info title
+invoice.footer.exchange_rate.desc,Beløp konverteres til %{local_currency_display_name} ved bruk av valutakursen: 1 %{local_currency_code} = %{exchange_rate_value} %{document_currency_code},Amounts are converted into %{local_currency_display_name} using the exchange rate: 1 %{local_currency_code} = %{exchange_rate_value} %{document_currency_code},exchange rate description
+invoice.transaction.credit_applied,En kreditt på %{amount} ble brukt den %{date},A credit of %{amount} was applied on %{date}.,A credit of amount was applied on date
+constants.taxes.avalara_partial_tax_desc,"Dette beløpet beregnes basert på det skattbare beløpet, som kan variere basert på skattelovene i landet ditt",*This amount is calculated based on the taxable amount which may vary based on the taxation laws in your country.,avalara partial tax descirption text
+invoice.footer.title.amount_withheld,Trukket skatt,Tax Withheld,Amount Withheld footer title
+constants.invoice_customization.reverse_charge_msg_uk,MVA er ikke aktuelt på denne fakturaen fordi et gyldig MVA-registreringsnummer ble oppgitt og omvendt avgiftsplikt er anvendt,VAT is not applicable on this invoice because a valid VAT registration number was provided and the reverse charge mechanism has been applied.,default reverse charge message
+transaction.payment_method.by_card_null,med kort," by Card.",payment with card
+constants.invoice_customization.cn_reverse_charge_default_exemption_note,Kjøperen er ansvarlig for beskatning av tjeneste eller varer som er levert,The buyer is responsible for taxation of service or goods provided.,Default Exemption Note For Reverse Charge
+invoice.footer.title.adjustments,Justeringer,Adjustments,Adjustments footer title
+invoice.transaction.written_off,%{amount} ble avskrevet den %{date},%{amount} was written-off on %{date}.,Amount was writted off on date
+transaction.payment_method.by_card,med %{card_type} kort som slutter på %{last4_digits}," by %{card_type} card ending %{last4_digits}.",payment with card
+invoice.transaction.refunded_initiated,En refusjon på %{amount} ble initiert den %{date},%{amount} refund was initiated on %{date},Amount refund was initiated on date
+constants.invoice_customization.cn_reverse_charge_msg,MVA er ikke aktuelt på denne kreditnotaen fordi et gyldig MVA-registreringsnummer ble oppgitt og omvendt avgiftsplikt er anvendt,VAT is not applicable on this credit note because a valid VAT registration number was provided and the reverse charge mechanism has been applied.,default reverse charge mesage for credit note
+constants.invoice_customization.cn_reverse_charge_msg_uk,MVA er ikke aktuelt på denne kreditnotaen fordi et gyldig MVA-registreringsnummer ble oppgitt og omvendt avgiftsplikt er anvendt,VAT is not applicable on this credit note because a valid VAT registration number was provided and the reverse charge mechanism has been applied.,default reverse charge mesage for credit note
+invoice.transaction.adjustment,En justering på %{amount} ble gjort den %{date},An adjustment of %{amount} was made on %{date}.,Adjustment of amount was made on date
+transaction.payment_method.direct_debit,ACH,ACH,Direct Debit heading

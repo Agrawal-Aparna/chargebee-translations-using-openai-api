@@ -1,0 +1,24 @@
+key,value,reference value,description
+line_item.final_credit_correction.added,Tilføyde resterende kreditter,Leftover Credits Added,when amount is < than 0
+line_item.plan.prorated_charges,Forholdsmessige kostnader,Prorated Charges,Prorated Charges for plan/addon prorated charges
+line_item.coupon.free_quantity,Gratis mengde," Free Quantity",Free quantity in a coupon
+email.line_item.coupon.text,<b>%{coupon_details} %{disc_amt} av</b> anvendt for %{line_item_desc},<b>%{coupon_details} %{disc_amt} off</b> applied for %{line_item_desc}.,The applied on text for coupon
+line_item.desc.credits_for,Kreditter for %{date_range},Credits for %{date_range},Credits for 3rd oct to 15th oct
+line_item.plan.set_up_fee,Oppstartsgebyr,Setup Fee,Plan set up fee - description at line item level
+line_item.desc.account_credits,Promosjonskreditter,Promotional Credits,promotional credits given for a line item
+line_item.desc.reclaimed_credit_adjusments,Forholdsmessige Kreditter Returnert,Prorated Credits Returned,Prorated credits given for a line item
+line_item.coupon.non_discount_plural,%{coupon_details} av %{disc_amt} anvendt på linjeelementer %{line_items},%{coupon_details} of %{disc_amt} applied on line items %{line_items}.,The applied on text for coupon
+line_item.coupon.non_discount_all,av %{coupon_details} på %{disc_amt} anvendt på %{line_items} linjeelementer,%{coupon_details} of %{disc_amt} applied on %{line_items} line items.,The applied on text for coupon
+line_item.coupon.non_discount_singular,%{coupon_details} av %{disc_amt} anvendt på linjeelement %{line_items},%{coupon_details} of %{disc_amt} applied on line item %{line_items}.,The applied on text for coupon
+line_item.coupon.ao_text_singular,%{coupon_details} brukt på linjeelement %{line_items} - %{disc_amt} %{pdf_inv_desc},%{coupon_details} applied on line item %{line_items} - %{disc_amt} %{pdf_inv_desc}.,The applied on text for coupon
+line_item.coupon.ao_text_all,%{coupon_details} brukt på %{line_items} linjeelementer - %{disc_amt} %{pdf_inv_desc},%{coupon_details} applied on %{line_items} line items - %{disc_amt} %{pdf_inv_desc}.,The applied on text for coupon
+line_item.desc.prorated_credits_for,Forholdsmessige kreditter for %{date_range},Prorated Credits for %{date_range},Protated Credits for 3rd oct to 15th oct
+line_item.coupon.ao_text_plural,%{coupon_details} brukt på linjeelementer %{line_items} - %{disc_amt} %{pdf_inv_desc},%{coupon_details} applied on line items %{line_items} - %{disc_amt} %{pdf_inv_desc}.,The applied on text for coupon
+line_item.desc.stairstep_pricing,%{amount} for %{unit} enheter,%{amount} for %{unit} units,Stairstep pricing description
+line_item.desc.total_units,Totalt antall enheter - %{unit},Total units - %{unit},Total units
+line_item.final_credit_correction.removed,Ekstra kreditter fjernet,Additional Credits Removed,when amount is > than 0
+line_item.desc.credit_adjustments,Forholdsmessige kreditter,Prorated Credits,Prorated credits given for a line item
+line_item.desc.reclaimed_account_credits,Promosjonskreditter returnert,Promotional Credits Returned,promotional credits given for a line item
+cn.discount.text,Rabatter/kreditter anvendt på denne fakturaen,Discounts/credits applied on this invoice,text
+line_item.fractional_correction,Fraksjonell korreksjon,Fractional Correction,Fractional Correction
+line_item.desc.units,enheter,units,units

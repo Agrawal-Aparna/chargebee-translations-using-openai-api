@@ -1,0 +1,7 @@
+key,value,reference value,description
+dy.item.plan.name.Vekst,,Vekst,Name for the Item plan : Vekst
+dy.item.plan.description.Vekst,,"For selskap som vokser i antall kunder, ansatte og/eller aksjonærer.",Description for the Item plan : Vekst
+dy.item.plan.external_name.Vekst,,Vekst,External Name for the Item plan : Vekst
+dy.item.plan.name.Basis,,Basis,Name for the Item plan : Basis
+dy.item.plan.description.Basis,,For frilansere og ledere som trenger basisavtaler til selskapet og et godt avtalearkiv,Description for the Item plan : Basis
+dy.item.plan.external_name.Basis,,Basis,External Name for the Item plan : Basis

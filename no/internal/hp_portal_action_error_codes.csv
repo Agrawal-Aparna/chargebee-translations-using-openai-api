@@ -1,0 +1,22 @@
+key,value,reference value,description
+invalid_payless_checkout,Ugyldig Payless-utsjekkingsoppførsel,Invalid Payless Checkout Behaviour.,Invalid Payless Checkout Behaviour.
+not_supported_for_moving_out_resource,"Beklager, denne operasjonen er ikke mulig nå. Vennligst prøv igjen etter en stund eller kontakt oss for assistanse",Sorry this operation is not possible now. Please try again after some time or contact us for assistance.,Sorry this operation is not possible now. Please try again after some time or contact us for assistance.
+recaptcha_verification_failed,Bekreftelse av reCAPTCHA mislyktes. Prøv igjen,Recaptcha verification failed. Try again,Recaptcha verification failed. Try again
+portal_access_disabled_for,Tilgang til kundeportalen er deaktivert,Customer portal access is disabled.,Customer portal access is disabled.
+invalid_return_cancel_url,Oops! Retur- eller avbryt-URL-en er ugyldig,Oops! The return or cancel URL is invalid.,Oops! The return or cancel URL is invalid.
+login_site_mismatch_error,"Vennligst bekreft e-postadressen. Denne registreringen fungerer bare hvis du allerede er en ""Abonnent"" av denne tjenesten","Please verify the email id. This signup works only if you are already a ""Subscriber"" of this service.","Please verify the email id. This signup works only if you are already a ""Subscriber"" of this service."
+same_password_error,Nytt passord bør ikke være det nåværende passordet,New password should not be the current password,New password should not be the current password
+"subscription_canceled ",,This is a cancelled subscription. Please contact us for more details.,This is a cancelled subscription. Please contact us for more details.
+password_not_valid,"Passordet ditt må inneholde minst én stor bokstav, én liten bokstav og et tall","Your password must have atleast one uppercase character, lowercase character and a number","Your password must have atleast one uppercase character, lowercase character and a number"
+setup_not_completed,Du har ikke satt opp kundeportal kontoen din ennå. Bruk ''Registrer deg'' alternativet for å komme i gang,You have not setup your customer portal account yet. Use the ''Sign Up'' option to get started.,You have not setup your customer portal account yet. Use the ''Sign Up'' option to get started.
+otp_mismatch_error,Ugyldig engangspassord,Invalid one time password,Invalid one time password
+account_locked_error,Kontoen din har blitt låst av sikkerhetsgrunner,Your account has been locked due to security reasons.,Your account has been locked due to security reasons.
+login_mismatch_error,Innlogging mislyktes på grunn av feil legitimasjon,Login failed due to incorrect credentials.,Login failed due to incorrect credentials.
+password_too_short,Passordet ditt må ha minst 8 tegn,Your password must have atleast 8 characters,Your password must have atleast 8 characters
+invalid_url,Oops! Denne URL-en ser ut til å være enten utløpt eller ugyldig,Oops! This URL appears to be either expired or invalid.,Oops! This URL appears to be either expired or invalid.
+portal_access_disabled_for_api,Tilgang til kundeportalen via API er deaktivert,Customer portal access via API is disabled.,Customer portal access via API is disabled.
+portal_session_status_not_supported,Aktivering av en portaløkt støttes ikke for denne forespørselen,Activating a portal session is not supported for this request.,Activating a portal session is not supported for this request.
+invalid_otp_error,Innlogging mislyktes på grunn av feil legitimasjon,Login failed due to incorrect credentials.,Login failed due to incorrect credentials.
+email_not_verified,Du har ikke bekreftet e-posten din. Bruk ''Registrer deg''-alternativet for å komme i gang,You have not verified your email. Use the ''Sign Up'' option to get started.,You have not verified your email. Use the ''Sign Up'' option to get started.
+portal_token_invalid,Portal-token er utløpt eller ugyldig,Portal token has been expired or invalid.,Portal token has been expired or invalid.
+email_should_not_be_sent,E-postadressen er ikke tillatt å oppdatere,Email address is not allowed to be updated.,Email address is not allowed to be updated.

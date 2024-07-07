@@ -1,0 +1,4 @@
+key,value,reference value,description
+dy.hp_v3_policy_setting.privacy_label,,Privacy Policy,Privacy Label for the Hp V3 Policy Setting
+dy.hp_v3_policy_setting.tos_label,,Terms of Use,Tos Label for the Hp V3 Policy Setting
+dy.hp_v3_policy_setting.text,,I agree to %{tos}  and %{privacy_policy},Text for the Hp V3 Policy Setting

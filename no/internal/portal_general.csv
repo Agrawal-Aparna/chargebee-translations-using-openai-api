@@ -1,0 +1,11 @@
+key,value,reference value,description
+portal.change_password.reenter_new_password,Passordene stemmer ikke overens,Passwords do not match,Passwords do not match
+portal.stripe_acc_status_reason.verification_failed,Max forsøker å bekrefte at bankkontoen har blitt krysset,Max attempts to verify the bank account has been crossed,Max attempts to verify the bank account has been crossed
+portal.stripe_acc_status_reason.errored,Nylig overføring sendt til bankkontoen mislyktes. Bankkontoen kan ikke brukes til fremtidige betalinger,Recent transfer sent to the bank account failed. The bank account cannot be used for future payments,Recent transfer sent to the bank account failed. The bank account cannot be used for future payments
+portal.change_password.new_password_not_same,Nytt passord er det samme som det nåværende passordet,New password is same as the current password,New password is same as the current password
+portal.change_password.current_password.incorrect,Passordet du ga er feil,The password you gave is incorrect,The password you gave is incorrect
+portal.account_details.address,Adresse,Address,Address Label
+portal.stripe_acc_status_reason.validated,Bankkontoen er ikke bekreftet ennå,The bank account is not yet verified,The bank account is not yet verified
+portal.stripe_acc_status_reason.verified,Bankkontoen er verifisert,The bank account is verified,The bank account is verified
+portal.stripe_acc_status_reason.new,Bankkontoen er ikke bekreftet ennå,The bank account is not yet verified,The bank account is not yet verified
+portal.change_password.recently_used,Nylig brukte passord kan ikke brukes på nytt,Recently used passwords cannot be reused again,Recently used passwords cannot be reused again

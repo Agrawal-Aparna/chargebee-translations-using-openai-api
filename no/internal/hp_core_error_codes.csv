@@ -1,0 +1,2 @@
+key,value,reference value,description
+lock_timeout,"Forespørselen kan ikke behandles akkurat nå, da en annen API-forespørsel eller prosess for øyeblikket får tilgang til den samme ressursen. Vennligst prøv igjen",The request cannot be processed right now as another API request or process is currently accessing the same resource. Please retry.,Returned when there are multiple concurrent requests to the same resource.

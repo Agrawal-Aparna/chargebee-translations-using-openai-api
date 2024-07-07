@@ -1,0 +1,21 @@
+key,value,reference value,description
+dy.item_price.plan.name.Basis-NOK-Every-6-months,,Basis NOK Every 6 months,Name for the Item Price plan : Basis-NOK-Every-6-months
+dy.item_price.plan.external_name.Basis-NOK-Every-6-months,,Basis,External Name for the Item Price plan : Basis-NOK-Every-6-months
+dy.item_price.plan.description.Basis-NOK-Every-6-months,,,Description for the Item Price plan : Basis-NOK-Every-6-months
+dy.item_price.plan.invoice_notes.Basis-NOK-Every-6-months,,,Invoice Notes for the Item Price plan : Basis-NOK-Every-6-months
+dy.item_price.plan.name.Basis-NOK-Yearly,,Basis NOK Yearly,Name for the Item Price plan : Basis-NOK-Yearly
+dy.item_price.plan.external_name.Basis-NOK-Yearly,,Basis,External Name for the Item Price plan : Basis-NOK-Yearly
+dy.item_price.plan.description.Basis-NOK-Yearly,,,Description for the Item Price plan : Basis-NOK-Yearly
+dy.item_price.plan.invoice_notes.Basis-NOK-Yearly,,,Invoice Notes for the Item Price plan : Basis-NOK-Yearly
+dy.item_price.plan.name.Vekst-NOK-Yearly,,Vekst NOK Yearly,Name for the Item Price plan : Vekst-NOK-Yearly
+dy.item_price.plan.external_name.Vekst-NOK-Yearly,,Vekst,External Name for the Item Price plan : Vekst-NOK-Yearly
+dy.item_price.plan.description.Vekst-NOK-Yearly,,,Description for the Item Price plan : Vekst-NOK-Yearly
+dy.item_price.plan.invoice_notes.Vekst-NOK-Yearly,,,Invoice Notes for the Item Price plan : Vekst-NOK-Yearly
+dy.item_price.plan.name.Vekst-NOK-Monthly,,Vekst NOK Monthly,Name for the Item Price plan : Vekst-NOK-Monthly
+dy.item_price.plan.external_name.Vekst-NOK-Monthly,,Vekst,External Name for the Item Price plan : Vekst-NOK-Monthly
+dy.item_price.plan.description.Vekst-NOK-Monthly,,,Description for the Item Price plan : Vekst-NOK-Monthly
+dy.item_price.plan.invoice_notes.Vekst-NOK-Monthly,,,Invoice Notes for the Item Price plan : Vekst-NOK-Monthly
+dy.item_price.plan.name.Basis-NOK-Monthly,,Basis NOK Monthly,Name for the Item Price plan : Basis-NOK-Monthly
+dy.item_price.plan.external_name.Basis-NOK-Monthly,,Basis,External Name for the Item Price plan : Basis-NOK-Monthly
+dy.item_price.plan.description.Basis-NOK-Monthly,,,Description for the Item Price plan : Basis-NOK-Monthly
+dy.item_price.plan.invoice_notes.Basis-NOK-Monthly,,,Invoice Notes for the Item Price plan : Basis-NOK-Monthly

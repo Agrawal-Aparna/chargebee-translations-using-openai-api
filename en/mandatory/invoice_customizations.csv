@@ -1,0 +1,4 @@
+key,value,reference value,description
+dy.invoice_customization.notes,,,Notes for the Invoice Customization
+dy.invoice_customization.tax_exemption_text,,,Tax Exemption Text for the Invoice Customization
+dy.invoice_customization.signature_text,,,Signature Text for the Invoice Customization

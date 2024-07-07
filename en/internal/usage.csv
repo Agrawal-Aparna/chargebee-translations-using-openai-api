@@ -1,0 +1,8 @@
+key,value,reference value,description
+usage.label.date,,Date,Date
+usage.label.note,,Note,Usage Note
+usage.label.usage_details,,Usage Details,Usage Details
+usage.label.breakdown_from,,Itemized usage breakdown from,Usage breakdown from
+usage.label.breakdown_on,,Itemized usage breakdown on,Usage breakdown on
+usage.label.usage,,Usage,Usage
+usage.label.plan_or_addon,,Plan/Addon,Plan/Addon

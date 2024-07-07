@@ -1,0 +1,8 @@
+key,value,reference value,description
+usage.label.date,Dato,Date,Date
+usage.label.note,Merknad,Note,Usage Note
+usage.label.usage_details,Bruksdetaljer,Usage Details,Usage Details
+usage.label.breakdown_from,Bruksdetaljer fra,Itemized usage breakdown from,Usage breakdown from
+usage.label.breakdown_on,Bruksdetaljer på,Itemized usage breakdown on,Usage breakdown on
+usage.label.usage,Bruk,Usage,Usage
+usage.label.plan_or_addon,Plan/Tillegg,Plan/Addon,Plan/Addon

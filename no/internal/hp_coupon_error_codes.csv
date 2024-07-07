@@ -1,0 +1,28 @@
+key,value,reference value,description
+exceeded_allowed_coupon_code_limit,Bare {0} kupongkoder tillatt per kupongsett,Only {0} coupon codes allowed per coupon set.,Only {0} coupon codes allowed per coupon set.
+error_while_uploading_coupon_code,Feil under opplasting. Duplikat kupongkode funnet på rad {0},Error during upload. Duplicate coupon code found at row {0}.,Error during upload. Duplicate coupon code found at row {0}.
+already_redeemed,Kupongen {0} er allerede innløst for dette abonnementet,The coupon {0} is already redeemed for this subscription,The coupon {0} is already redeemed for this subscription
+rec_coupon_not_supported,Kupong {0} kan ikke brukes da kun engangskuponger støttes,Coupon {0} cannot be applied as only one-time coupons are supported,Coupon {0} cannot be applied as only one-time coupons are supported
+un_supported_file_format,Ustøttet filformat. Kun CSV-filer er tillatt,Unsupported file format. Only CSV files are allowed,Unsupported file format. Only CSV files are allowed
+cannot_delete_exhausted_coupon_set,Kan ikke slette utmattet kupongsett,Cannot delete exhausted Coupon Set,Cannot delete exhausted Coupon Set
+max_redemptions_reached,Den innløste kupongen {0} har allerede blitt innløst {1} ganger. Ingen flere innløsninger er tillatt.,The passed coupon {0} has already been redeemed {1} times. No more redemptions are allowed,Maximum redemption count of the coupon is exceeded.
+cannot_archive_redeemed_coupon_code,Kan ikke arkivere en innløst kupongkode,Cannot archive a redeemed coupon code,Cannot archive a redeemed coupon code
+two_coupons_of_same_type,Denne kupongen kan ikke brukes for dette abonnementet. Vennligst kontakt selgeren for flere detaljer,This coupon cannot be applied for this subscription. Please contact the seller for more details.,This coupon cannot be applied for this subscription. Please contact the seller for more details.
+no_coupon_code_found,Ingen kupongkoder funnet i filen,No coupon codes found in the file.,No coupon codes found in the file.
+coupon_expired,Den brukte kupongen {0} utløp allerede den {1},Applied coupon {0} has already expired on {1},Applied coupon {0} has already expired on {1}
+invalid_request_with_no_coupon,Ingen kuponger har blitt brukt på dette abonnementet,No coupons have been applied on this subscription,No coupons have been applied on this subscription
+could_not_read_the_file,Kunne ikke lese innholdet i CSV-filen,Could not able to read the content in CSV file.,Could not able to read the content in CSV file.
+coupon_code_already_exists,Kupongkoden eksisterer allerede. Duplisering er ikke tillatt,Coupon code already exists. Duplicate not allowed,Coupon code already exists. Duplicate not allowed
+invalid_request_with_no_applicable_coupon,Kupong ikke funnet eller ikke en gyldig kupong,coupon not found or not a applicable coupon,coupon not found or not a applicable coupon
+api_coupon_not_applied,Kupong {0} har ikke blitt brukt på dette abonnementet,coupon {0} has not been applied on this subscription,coupon {0} has not been applied on this subscription
+cannot_delete_archived_coupon_code,Kan ikke slette brukt kupongkode,Cannot delete used coupon code,Cannot delete used coupon code
+too_many_characters_in_coupon_code,Mer enn {0} tegn er funnet i kupongkoden i rad {1},More than {0} characters is found at coupon code in row {1},More than {0} characters is found at coupon code in row {1}
+invalid_coupon,Ingen slik kupong funnet,No such coupon found,No such coupon found
+coupon_set_name_alreay_exists,Kupongsettets navn eksisterer allerede for en annen kupong,coupon set name already exists for another coupon.,coupon set name already exists for another coupon.
+applicable_item_limit_exceeded,En eller flere kuponger har mer enn {0} aktuelle varer. Vennligst kontakt support@chargebee.com for ytterligere detaljer,One or more coupon has more than {0} applicable items. Please contact support@chargebee.com for further details.,One or more coupon has more than {0} applicable items. Please contact support@chargebee.com for further details.
+invalid_subscription_state,Ugyldig abonnementstilstand for å bruke/endre kupong,Invalid subscription state to apply/change coupon,Invalid subscription state to apply/change coupon
+exceeded_allowed_coupon_set_limit,Bare {0} kupongsett tillatt per kupong,Only {0} coupon sets allowed per coupon.,Only {0} coupon sets allowed per coupon.
+no_such_coupon,Ingen slik kupong {0} å innløse,No such coupon {0} to redeem,Coupon is not found
+coupon_not_applicable,Kupong {0} kan ikke brukes da den ikke er gyldig for noen av varene.,Coupon {0} cannot be applied as it is not applicable to any of the items,Coupon is not applicable for any of the passed item
+invalid_coupon_code,Ugyldig kupongkode,Invalid coupon code,Invalid coupon code
+coupon_code_not_applicable_for_this_coupon,Kupongkoden er ikke gyldig for denne kupongen,Coupon code is not applicable for this coupon,Coupon code is not applicable for this coupon

@@ -1,0 +1,237 @@
+key,value,reference value,description
+enum.credit_note_base.reason_code.name.chargeback,Tilbakeføring,Chargeback,Can be set when you are recording your customer Chargebacks
+enum.public_card_error_code.name.paypal_general_err,Vi har støtt på et problem mens vi prøvde å få tilgang til din PayPal-konto,We've encountered a problem while accessing your paypal account.,We've encountered a problem while accessing your paypal account.
+enum.invoice_base.status.name.posted,Postet,Posted,Indicates the payment is not yet collected and will be in this state till the due date to indicate the due period
+enum.payment_method_base.type.name.paypal_express_checkout,Paypal Express Checkout,Paypal Express Checkout,Payments made via PayPal Express Checkout.
+enum.transaction_base.payment_method.name.boleto,boleto,boleto,boleto
+enum.credit_card_base.card_type.name.tarjeta_naranja,Oransje Kort,Tarjeta Naranja,A Tarjeta Naranja card.
+enum.discount_base.duration_type.name.limited_period,Begrenset periode,Limited Period,The discount is attached to the subscription and applied on the invoices for a limited duration. This duration starts from the point it is applied to an invoice for the first time and expires after a period specified by <code>period</code> and <code>period_unit</code>.
+enum.line_item_base.type.name.coupon_credit,Kupongkreditt,Coupon Credit,Coupon Credit
+enum.tax_reg_number_base.label.name.gstin,GSTIN,GSTIN,GSTIN
+enum.transaction_base.payment_method.name.automated_bank_transfer,Automatisert bankoverføring,Automated Bank Transfer,Automated Bank Transfer <span isMicro='true' featureId='cb-bank-transfer'></span>
+enum.discount_base.duration_type.name.forever,For alltid,Forever,"The discount is attached to the subscription and applied on the invoices till it is <a href=""/docs/api/subscriptions?prod_cat_ver=2#update_subscription_for_items_discounts_operation_type"">explicitly removed</a>."
+enum.payment_method_base.type.name.card,Kort,Card,Card based payment including credit cards and debit cards. Details about the card can be obtained from the card resource.
+enum.line_item_base.type.name.addon_item_price,Tilleggsartikkel Pris,Addon Item Price,Addon Item Price
+enum.quote_base.status.name.approved,Godkjent,Approved,Approved.
+enum.public_card_error_code.name.amz_agreement_declined,Den valgte betalingsmetoden din på Amazon ble avvist. Vennligst oppdater den og prøv igjen,Your selected payment method in amazon was declined. Please update it and try again.,Your selected payment method in amazon was declined. Please update it and try again.
+enum.credit_card_base.card_type.name.hipercard,Hipercard,Hipercard,An Hipercard.
+enum.transaction_failure_reason.name.card_barred,Mistet / Stengt / Blokkert Kort,Lost / Closed / Blocked Card,Lost / Closed / Blocked Card
+enum.credit_card_base.card_type.name.nativa,Nativa,Nativa,A Nativa card.
+enum.line_item_base.type.name.fractional_correction,Fraksjonell korreksjon,Fractional Correction,Fractional Correction
+enum.transaction_base.payment_method.name.klarna_pay_now,Klarna Betal Nå,Klarna Pay Now,Klarna Pay Now <span isMicro='true' featureId='cb-klarna-pay-now'></span>
+enum.contract_term_base.action_at_term_end.name.evergreen,Kontrakten avsluttes,"Contract ends, subscription continues to renew",Contract term completes and the subscription renews.
+enum.credit_card_base.card_type.name.elo,Elo,Elo,A Elo card.
+enum.bank_account_base.account_type.name.checking,Kontrollerer.,Checking,Checking Account
+enum.invoice_customization_base.cn_title.name.credit_note,KREDITTNOTA,CREDIT NOTE,CREDIT NOTE
+enum.transaction_base.payment_method.name.app_store,App Store,App Store,App Store
+enum.credit_card_base.card_type.name.other,Annen.,Other,Card belonging to types other than those listed above.
+enum.credit_note_base.reason_code.name.fraudulent,SVINDELAKTIG,FRAUDULENT,FRAUDULENT
+enum.credit_note_base.reason_code.name.service_unsatisfactory,Tjenesten er utilfredsstillende,Service Unsatisfactory,Service Unsatisfactory
+enum.transaction_failure_reason.name.fraud,Svindelkort,Fraud card,Fraud card
+enum.pricing_model.name.tiered,Trinnvis,Tiered,The per unit price is based on the tier that the total quantity falls in.
+enum.credit_card_base.card_type.name.not_applicable,Ikke aktuelt,Not Applicable,Used for offline entries in transactions. Not applicable for cards
+enum.item_price_base.period_unit.name.month,Måned,Month,A period of 1 calendar month.
+enum.line_item_base.type.name.credit_adjustments,Kredittjusteringer,Credit Adjustments,Credit Adjustments
+enum.transaction_failure_reason.name.contact_details_required,Ugyldige kontaktinformasjon,Invalid Contact details,Invalid Contact details
+enum.credit_note_base.status.name.voided,Annullert,Voided,When the Credit Note has been cancelled.
+enum.transaction_base.payment_method.name.faster_payments,Raskere Betalinger,Faster Payments,Faster Payments <span isMicro='true' featureId='cb-faster-payments'></span>
+enum.plan_base.trial_period_unit.name.day,Dag,Day,In days
+enum.credit_card_base.card_type.name.visa,Visum,Visa,A Visa card.
+enum.contract_term_base.action_at_term_end.name.renew_once,Avbrytes ved slutten av neste kontraktperiode,Cancels at end of next contract term,"Used when you want to renew the contract term just once. Does the following: <li>Contract term completes and a new contract term is started for the number of billing cycles specified in <a href=""subscriptions#create_subscription_for_customer_contract_term_billing_cycle_on_renewal""><code>contract_billing_cycle_on_renewal</code></a>.</li><li>The <code>action_at_term_end</code> for the new contract term is set to <code>cancel</code>.</li></ul>"
+enum.transaction_failure_reason.name.invalid_payment_method,Ugyldig betalingsmetode,Invalid Payment Method,Invalid Payment Method
+enum.credit_note_base.status.name.refund_due,Refusjon skyldes,Refund Due,"When the credits are yet to be used, or have been partially used."
+enum.payment_method_base.type.name.direct_debit,Direkte Debet,Direct Debit,Represents bank account for which the direct debit or ACH agreement/mandate is created.
+enum.transaction_base.payment_method.name.venmo,Venmo,Venmo,Venmo <span isMicro='true' featureId='cb-venmo'></span>
+enum.quote_base.status.name.converting,Konvertering,Converting,Converting
+enum.payment_method_base.type.name.sepa_credit,SEPA-kreditt,SEPA Credit,Payments made via SEPA Credit Transfer.
+enum.line_item_base.type.name.plan_setup_charge,Oppsettavgift for plan,Plan Setup Charge,Plan Setup Charge
+enum.transaction_failure_reason.name.cvv_issue,CVV-problem,CVV issue,CVV issue
+enum.item_price_base.period_unit.name.week,Uke,Week,A period of 7 days.
+enum.transaction_base.payment_method.name.wechat_pay,WeChat Pay,WeChat Pay,WeChat Pay
+enum.line_item_base.type.name.charge,Ladning,Charge,Charge
+enum.line_item_base.type.name.addon_charge,Tilleggskostnad,Addon Charge,Addon Charge
+enum.quote_base.status.name.invoiced,Fakturert,Invoiced,Invoiced
+enum.credit_note_base.reason_code.name.subscription_cancellation,Avbestilling av abonnement,Subscription Cancellation,This reason will be set automatically for Credit Notes created during cancel subscription operation
+enum.public_card_error_code.name.gw_invalid_configuration,En feil oppstod under behandlingen av kortet ditt. Vennligst kontakt kundestøtte,An error occured while processing your card. Please contact support.,An error occured while processing your card. Please contact support.
+enum.transaction_base.payment_method.name.amazon_payments,Amazon-betalinger,Amazon Payments,Amazon Payments
+enum.line_item_base.type.name.plan_item_price,Planlagt varepris,Plan Item Price,Plan Item Price
+enum.public_card_error_code.name.amz_agreement_rejected,Kan ikke bruke Amazon-kontoen din. Vennligst velg en annen betalingsmetode,Unable to use your amazon account. Please select a different payment method.,Unable to use your amazon account. Please select a different payment method.
+enum.credit_note_base.reason_code.name.other,Annen,Other,Can be set when none of the above reason codes are applicable
+enum.item_price_base.period_unit.name.day,Dag,Day,A period of 24 hours.
+enum.tax_reg_number_base.label.name.vat_reg_no,MVA Reg #,"VAT Reg # ","VAT Reg # "
+enum.credit_note_base.status.name.refunded,Refundert,Refunded,When the entire credits (Credit Note amount) have been used (i.e either allocated to invoices or refunded).
+enum.transaction_base.payment_method.name.ach_credit,ACH-kreditt,ACH Credit,ACH Credit
+enum.subscription_base.state.name.future,Fremtid,Future,The subscription is scheduled to start at a future date.
+enum.tax_reg_number_base.label.name.vat_no,MVA #,VAT #,VAT #
+enum.transaction_base.payment_method.name.sepa_credit,SEPA-kreditt,SEPA Credit,SEPA Credit
+enum.quote_base.status.name.open,Åpen,Open,Open
+enum.transaction_base.payment_method.name.giropay,giropay,giropay,giropay
+enum.subscription_base.state.name.transferred,Overført,Transferred,The subscription has been transferred to another business entity within the organization.
+enum.credit_card_base.funding_type.name.not_applicable,Ikke aktuelt,Not Applicable,Used for ACH. Not applicable for cards
+enum.transaction_base.payment_method.name.dotpay,Dotpay,Dotpay,Dotpay
+enum.pricing_model.name.volume,Volum,Volume,There are quantity tiers for which per unit prices are set. Quantities are purchased from successive tiers.
+enum.credit_card_base.funding_type.name.prepaid,Forhåndsbetalt,Prepaid,A prepaid card.
+enum.bank_account_base.account_type.name.not_applicable,Ikke aktuelt,Not Applicable,"Not applicable for card, paypal, amazon and offline payments"
+enum.payment_method_base.type.name.upi,UPI,UPI,UPI Payments.
+enum.public_card_error_code.name.paypal_ec_agreement_canceled,Vi har støtt på et problem mens vi prøvde å få tilgang til din PayPal-konto,We've encountered a problem while accessing your paypal account.,We've encountered a problem while accessing your paypal account.
+enum.line_item_base.type.name.addon_prorated_charge,Tilleggsavgift Proratert Belastning,Addon Prorated Charge,Addon Prorated Charge
+enum.public_card_error_code.name.expired_card,Kortet ditt er utløpt. Vennligst oppdater kortet ditt,Your card is expired. Please update your card.,Your card is expired. Please update your card.
+enum.discount_base.type.name.percentage,Prosentandel,Percentage,The specified percentage will be given as discount.
+enum.discount_base.duration_type.name.one_time,Én gang,One Time,The discount stays attached to the subscription till it is applied on an invoice <b>once</b>. It is removed after that from the subscription.
+enum.public_card_error_code.name.gw_result_unknown,En feil oppstod under behandlingen av kortet ditt. Vennligst kontakt kundestøtte,An error occured while processing your card. Please contact support.,An error occured while processing your card. Please contact support.
+enum.payment_method_base.type.name.giropay,giropay,giropay,Payments made via giropay.
+enum.credit_card_base.status.name.valid,Gyldig.,Valid,A valid and active credit card
+enum.credit_note_base.status.name.adjusted,Justert,Adjusted,When the Credit Note has been adjusted against an invoice.
+enum.transaction_failure_reason.name.billing_aggrement_issue,Problem med fakturaavtale,Billing Agreement issue,Billing Agreement issue
+enum.transaction_base.payment_method.name.ideal,IDEAL,IDEAL,IDEAL
+enum.public_card_error_code.name.card_type_not_supported,Korttypen din støttes ikke. Vennligst prøv et annet kort,Your card type is not supported. Please try another card.,Your card type is not supported. Please try another card.
+enum.pricing_model.name.stairstep,Trappetrinn,Stairstep,A quantity-based pricing scheme. The item is charged a fixed price based on the tier that the total quantity falls in.
+enum.payment_method_base.type.name.online_banking_poland,,Online Banking Poland,Payments made via Online Banking Poland <span isMicro='true' featureId='cb-online-banking-poland'></span>
+enum.bank_account_base.account_holder_type.name.not_applicable,Ikke aktuelt,Not Applicable,"Not applicable for card, paypal, amazon and offline payments"
+enum.payment_method_base.type.name.automated_bank_transfer,Automatisert bankoverføring,Automated Bank Transfer,Represents virtual bank account using which the payment will be done. <span isMicro='true' featureId='cb-bank-transfer'></span>
+enum.line_item_base.type.name.round_off,Avrund,Round off,Round off
+enum.credit_note_base.reason_code.name.order_cancellation,Ordreavbestilling,Order Cancellation,Order Cancellation
+enum.subscription_base.state.name.paused,Pauset,Paused,"The subscription is <a href=""https://www.chargebee.com/docs/2.0/pause-subscription.html"" target=""_blank"">paused</a>. The subscription will not renew while in this state."
+enum.invoice_customization_base.tax_reg_no_label.name.gst_reg_no,GST Reg #,GST Reg  #,GST Reg  #
+enum.invoice_customization_base.invoice_title.name.tax_invoice,SKATTEFAKTURA,TAX INVOICE,TAX INVOICE
+enum.credit_card_base.status.name.expired,Utløpt,Expired,An expired card
+enum.payment_method_base.type.name.sofort,Umiddelbart,Sofort,Payments made via Sofort.
+enum.invoice_base.status.name.empty,Tom.,Empty,Empty
+enum.credit_card_base.card_type.name.carnet,Karnet,Carnet,A Carnet card.
+enum.pricing_model.name.per_unit,Per enhet,Per Unit,A fixed price per unit quantity.
+enum.invoice_customization_base.tax_reg_no_label.name.abn,ABN,ABN,ABN
+enum.line_item_base.type.name.non_recurring_charge,Engangsavgift,Non Recurring Charge,Non Recurring Charge
+enum.transaction_base.payment_method.name.direct_debit,Direkte Debet,Direct Debit,Direct Debit
+enum.invoice_customization_base.cn_title.name.refund,REFUSJON,REFUND,REFUND
+enum.invoice_base.status.name.voided,Annullert,Voided,Indicates a voided invoice.
+enum.transaction_base.payment_method.name.unionpay,Unionpay,Unionpay,Unionpay
+enum.payment_method_base.type.name.netbanking_emandates,Nettbank eMandater,Netbanking eMandates,Netbanking (eMandates) Payments.
+enum.public_card_error_code.name.cvv_error,Sikkerhetskoden for kortet ditt ble ikke godkjent. Vennligst oppdater CVV og prøv igjen,Security Code validation failed for your card. Please update the CVV and try again.,Security Code validation failed for your card. Please update the CVV and try again.
+enum.quote_base.status.name.rejected,Avvist,Rejected,Rejected.
+enum.transaction_failure_reason.name.avs_issue,Feil ved validering av adresse,Address validation failure,Address validation failure
+enum.payment_method_base.type.name.google_pay,Google Pay,Google Pay,Payments made via Google Pay.
+enum.credit_card_base.card_type.name.cabal,Kabal,Cabal,A Cabal card.
+enum.credit_note_base.reason_code.name.subscription_pause,Abonnement Pause,Subscription Pause,This reason will be automatically set to credit notes created during pause/resume subscription operation.
+enum.credit_card_base.card_type.name.argencard,Argencard,Argencard,An Argencard.
+enum.payment_method_base.type.name.alipay,Alipay,Alipay,Payments made via Alipay.
+enum.invoice_customization_base.tax_reg_no_label.name.tax_reg_no,Skatteregistreringsnummer #,"Tax Reg # ","Tax Reg # "
+enum.payment_method_base.type.name.unionpay,Unionpay,Unionpay,Payments made via UnionPay.
+enum.credit_card_base.status.name.pending_verification,Venter på verifisering,Pending Verification,The payment method need's to be verified. Added for Stripe ACH
+enum.transaction_base.payment_method.name.check,Sjekk.,Check,Check
+enum.public_card_error_code.name.card_declined,Kortet ditt ble avvist,Your card was declined.,Your card was declined.
+enum.credit_card_base.card_type.name.maestro,Maestro,Maestro,A Maestro card.
+enum.contract_term_base.action_at_term_end.name.renew,Fornyes for en annen periode,Renews for another term,"<li>Contract term completes and a new contract term is started for the number of billing cycles specified in <a href=""subscriptions#create_subscription_for_customer_contract_term_billing_cycle_on_renewal""><code>contract_billing_cycle_on_renewal</code></a>.</li><li>The <code>action_at_term_end</code> for the new contract term is set to <code>renew</code>.</li>"
+enum.plan_base.period_unit.name.year,År,Year,Charge based on year(s)
+enum.credit_card_base.card_type.name.cmr_falabella,CMR Falabella,CMR Falabella,A CMR Falabella card.
+enum.contract_term_base.action_at_term_end.name.cancel,Kontrakten avsluttes,Contract ends,Contract term completes and subscription is canceled.
+enum.transaction_base.payment_method.name.sepa_instant_transfer,Sepa Øyeblikkelig Overføring,Sepa Instant Transfer,Sepa Instant Transfer <span isMicro='true' featureId='cb-sepa-instant-transfer'></span>
+enum.payment_method_base.type.name.venmo,Venmo,Venmo,Payments made via Venmo <span isMicro='true' featureId='cb-venmo'></span>
+enum.line_item_base.type.name.account_credits,Kontokreditter,Account Credits,Account Credits
+enum.payment_method_base.type.name.e_2checkout,2Checkout,2Checkout,2Checkout
+enum.payment_method_base.type.name.bancontact,Bancontact,Bancontact,Payments made via Bancontact Card.
+enum.invoice_base.status.name.pending,Ventende,Pending,"<div prod_cat_ver=2>The <a href=""/docs/api/invoices?prod_cat_ver=2#invoice_status"">invoice</a> is yet to be closed (sent for payment collection). An invoice is generated with this <code>status</code> when it has line items that belong to items that are <code>metered</code> or when the <code>subscription.create_pending_invoices</code>attribute is set to <code>true</code>.</div><div prod_cat_ver=1>The <a href=""/docs/api/invoices?prod_cat_ver=1#invoice_status"">invoice</a> is yet to be closed (sent for payment collection). All invoices are generated with this <code>status</code> when <a href=""https://www.chargebee.com/docs/1.0/metered_billing.html"" target=""_blank"" rel=""noreferrer noopener"">Metered Billing</a> is enabled for the site.</div>"
+enum.public_card_error_code.name.amz_account_suspended,Møtte et problem mens du brukte din Amazon-konto. Vennligst velg en annen betalingsmetode,Encountered a problem while using your amazon account. Please select a different payment method.,Encountered a problem while using your amazon account. Please select a different payment method.
+enum.public_card_error_code.name.prepaid_card_err,Forhåndsbetalte kort støttes ikke,Prepaid cards are not supported.,Prepaid cards are not supported.
+enum.transaction_base.payment_method.name.sofort,Umiddelbart,Sofort,Sofort
+enum.item_price_base.trial_period_unit.name.month,Måned,Month,A period of 1 calendar month.
+enum.public_card_error_code.name.payapl_ec_token_expired_invalid,Din PayPal-økt har utløpt. Vennligst prøv igjen,Your PayPal session has expired. Please try again.,Your PayPal session has expired. Please try again.
+enum.discount_base.type.name.fixed_amount,Fast beløp,Fixed Amount,The specified amount will be given as discount.
+enum.credit_card_base.card_type.name.cencosud,Cencosud,Cencosud,A Cencosud card.
+enum.subscription_base.state.name.non_renewing,Ikke fornybar,Non Renewing,The subscription will be canceled at the end of the current term.
+enum.payment_method_base.type.name.faster_payments,Raskere Betalinger,Faster Payments,Payments made via Faster Payments <span isMicro='true' featureId='cb-faster-payments'></span>
+enum.credit_card_base.card_type.name.american_express,American Express,American Express,An American Express card.
+enum.credit_card_base.funding_type.name.credit,Kreditt,Credit,A credit card.
+enum.credit_card_base.card_type.name.mastercard,MasterCard,MasterCard,A MasterCard.
+enum.bank_account_base.account_holder_type.name.individual,Individuell.,Individual,Individual Account.
+enum.transaction_base.payment_method.name.bancontact,Bancontact,Bancontact,Bancontact
+enum.credit_note_base.reason_code.name.write_off,Avskrive,Write Off,"This reason will be set automatically for the Credit Notes created during invoice <a target=""_blank"" href=""https://www.chargebee.com/docs/invoice-operations.html#write-off"">Write Off</a> operation."
+enum.quote_setting_base.quote_title.name.proforma_invoice,PROFORMA FAKTURA,PROFORMA INVOICE,PROFORMA INVOICE
+enum.item_price_base.trial_period_unit.name.day,Dag,Day,A period of 24 hours.
+enum.credit_card_base.funding_type.name.debit,Debet,Debit,A debit card.
+enum.transaction_failure_reason.name.card_expired,Kortet er utløpt,Card Expired,Card Expired
+enum.credit_note_base.reason_code.name.product_unsatisfactory,Produktet er ikke tilfredsstillende,Product Unsatisfactory,Product Unsatisfactory
+enum.transaction_base.payment_method.name.paypal_express_checkout,Paypal Express Checkout,Paypal Express Checkout,Paypal Express Checkout
+enum.credit_card_base.card_type.name.bancontact,Bancontact,Bancontact,A Bancontact card.
+enum.subscription_base.state.name.active,Aktiv.,Active,The subscription is active and will be charged for automatically based on the items in it.
+enum.line_item_base.type.name.non_recurring_addon_charge,Engangs tilleggsavgift,Non Recurring Addon Charge,Non Recurring Addon Charge
+enum.bank_account_base.account_type.name.unknown,Ukjent,Unknown,Bank Account Type is not set at the gateway
+enum.credit_card_base.card_type.name.jcb,JCB,JCB,A JCB card.
+enum.transaction_base.payment_method.name.other,Annen.,Other,Payment Methods other than the above types
+enum.public_card_error_code.name.gw_timeout,Betalingsystemet svarte ikke i tide. Vennligst prøv igjen etter en stund,The payment system did not respond in time. Please try after some time.,The payment system did not respond in time. Please try after some time.
+enum.credit_card_base.status.name.invalid,Ugyldig.,Invalid,The billing agreement cannot be used. It might become valid again either automatically or due to  customer action.
+enum.subscription_base.state.name.cancelled,Avlyst,Cancelled,The subscription has been canceled and is no longer in service.
+enum.credit_note_base.reason_code.name.subscription_change,Endring av abonnement,Subscription Change,"This reason will be set automatically for Credit Notes created during Change Subscription operation when <a target=""_blank"" href=""https://www.chargebee.com/docs/proration.html"">proration</a> is enabled"
+enum.quote_setting_base.quote_title.name.quote,TILBUD,QUOTE,QUOTE
+enum.credit_note_base.reason_code.name.waiver,Fritak,Waiver,Waiver
+enum.line_item_base.type.name.tax,Skatt,Tax,Tax
+enum.transaction_base.payment_method.name.apple_pay,Apple Pay,Apple Pay,Apple Pay
+enum.invoice_base.status.name.payment_due,Betalingsfrist,Payment Due,Indicates the payment is not yet collected and is being retried as per retry settings.
+enum.payment_method_base.type.name.ach_credit,ACH-kreditt,ACH Credit,Payments made via ACH Credit Transfer.
+enum.payment_method_base.type.name.boleto,Boleto,Boleto,Boleto Voucher Payments
+enum.line_item_base.type.name.charge_item_price,Pris for ladepost,Charge Item Price,Charge Item Price
+enum.public_card_error_code.name.gw_server_error,En feil oppstod under behandlingen av kortet ditt. Vennligst kontakt kundestøtte,An error occured while processing your card. Please contact support.,An error occured while processing your card. Please contact support.
+enum.transaction_base.payment_method.name.bank_transfer,Bankoverføring,Bank Transfer,Bank Transfer
+enum.invoice_customization_base.tax_reg_no_label.name.vat_reg_no,MVA Reg #,"VAT Reg # ","VAT Reg # "
+enum.transaction_base.payment_method.name.alipay,Alipay,Alipay,Alipay
+enum.transaction_base.payment_method.name.pay_to,Betal til,Pay To,PayTo <span isMicro='true' featureId='cb-pay-to'></span>
+enum.bank_account_base.account_type.name.savings,Sparepenger,Savings,Savings Account
+enum.tax_reg_number_base.label.name.abn,ABN,ABN,ABN
+enum.payment_method_base.type.name.ideal,IDEAL,IDEAL,Payments made via iDEAL.
+enum.credit_card_base.status.name.expiring,Utløper,Expiring,A card which is expiring in the current month.
+enum.tax_reg_number_base.label.name.gst_reg_no,GST Reg #,GST Reg  #,GST Reg  #
+enum.quote_base.status.name.closed,Stengt.,Closed,Closed
+enum.plan_base.period_unit.name.week,Uke,Week,Charge based on week(s)
+enum.public_card_error_code.name.general_err,Problem under behandling av betalingsmetoden din. Vennligst bekreft detaljene for betalingsmetoden din,Problem while processing your payment method. Please verify your payment method details.,Problem while processing your payment method. Please verify your payment method details.
+enum.plan_base.period_unit.name.month,Måned,Month,Charge based on month(s)
+enum.public_card_error_code.name.addr_error,Adressen til kortet ditt ble ikke godkjent. Vennligst oppdater adressen og prøv igjen,Address validation failed for your card. Please update the address and try again.,Address validation failed for your card. Please update the address and try again.
+enum.transaction_failure_reason.name.amount_related,Fond / Begrensningsproblem,Fund / Limit Issue,Fund / Limit Issue
+enum.payment_method_base.type.name.apple_pay,Apple Pay,Apple Pay,Payments made via Apple Pay.
+enum.tax_reg_number_base.label.name.qst,QST Reg #,QST Reg #,QST Reg #
+enum.credit_card_base.card_type.name.discover,Oppdag,Discover,A Discover card.
+enum.line_item_base.type.name.plan_charge,Planladningsgebyr,Plan Charge,Plan Charge
+enum.credit_note_base.reason_code.name.order_change,Endring av bestilling,Order Change,Order Change
+enum.plan_base.trial_period_unit.name.month,Måned,Month,In months
+enum.bank_account_base.account_type.name.current,Nåværende,Current,Current Account
+enum.line_item_base.type.name.offer_credit,Tilby kreditt,Offer Credit,Offer Credit
+enum.payment_method_base.type.name.amazon_payments,Amazon-betalinger,Amazon Payments,Payments made via Amazon Payments.
+enum.payment_method_base.type.name.klarna_pay_now,Klarna Betal Nå,Klarna Pay Now,Payments made via Klarna Pay Now <span isMicro='true' featureId='cb-klarna-pay-now'></span>
+enum.tax_reg_number_base.label.name.hst,HST Reg #,HST Reg #,HST Reg #
+enum.payment_method_base.type.name.dotpay,Dotpay,Dotpay,Payments made via Dotpay.
+enum.public_card_error_code.name.gocardless_flow_completed,Ditt direkte debit mandat er kansellert. Vennligst endre betalingsmetoden og sett den opp igjen,Your Direct Debit mandate is cancelled. Please change the payment method and set it up again.,Your Direct Debit mandate is cancelled. Please change the payment method and set it up again.
+enum.line_item_base.type.name.plan_prorated_charge,Planlagt Proratert Avgift,Plan Prorated Charge,Plan Prorated Charge
+enum.subscription_base.state.name.in_trial,I rettssak,In Trial,The subscription is in trial.
+enum.transaction_base.payment_method.name.custom,Tilpasset,Custom,Custom
+enum.payment_method_base.type.name.wechat_pay,WeChat Pay,WeChat Pay,Payments made via WeChat Pay.
+enum.invoice_base.status.name.paid,Betalt,Paid,Indicates a paid invoice.
+enum.credit_card_base.card_type.name.rupay,Rupay,Rupay,A Rupay card.
+enum.public_card_error_code.name.amz_general_err,Møtte et problem mens du brukte din Amazon-konto. Vennligst prøv igjen eller endre betalingsmetoden,Encountered a problem while using your amazon account. Please try again or change the payment method.,Encountered a problem while using your amazon account. Please try again or change the payment method.
+enum.pricing_model.name.flat_fee,Fastpris,Flat Fee,A fixed price that is not quantity-based.
+enum.invoice_base.status.name.upcoming,Kommende,Upcoming,Current open invoice containing the charges & adjustments for the upcoming term.
+enum.transaction_base.payment_method.name.google_pay,Google Pay,Google Pay,Google Pay
+enum.tax_reg_number_base.label.name.pst,PST Reg #,PST Reg #,PST Reg #
+enum.line_item_base.type.name.final_credit_correction,Endelig kredittkorreksjon,Final Credit Correction,Final Credit Correction
+enum.transaction_base.payment_method.name.card,Kort,Card,Card
+enum.transaction_base.payment_method.name.cash,Kontanter,Cash,Cash
+enum.bank_account_base.account_holder_type.name.company,Selskap,Company,Company Account.
+enum.transaction_base.payment_method.name.netbanking_emandates,nettbanking_efullmakter,netbanking_emandates,netbanking_emandates
+enum.credit_card_base.funding_type.name.not_known,Ukjent,Not known,An unknown card.
+enum.payment_method_base.type.name.sepa_instant_transfer,Sepa Øyeblikkelig Overføring,Sepa Instant Transfer,Payments made via Sepa Instant Transfer <span isMicro='true' featureId='cb-sepa-instant-transfer'></span>
+enum.public_card_error_code.name.adyen_prepaid_card_blocking_or_fraud_failures,"Denne operasjonen ble avvist. Dette kan være fordi du brukte et forhåndsbetalt kort, eller betalingsmetoden ble avvist av betalingsprosessoren. Velg en annen betalingsmetode og prøv igjen","This operation was declined. This may be because you used a prepaid card or the payment method was rejected by the payment processor. Choose a different payment method, and try again.","This operation was declined. This may be because you used a prepaid card or the payment method was rejected by the payment processor. Choose a different payment method, and try again."
+enum.credit_card_base.card_type.name.diners_club,Diners Club,Diners Club,A Diner's Club card.
+enum.quote_base.status.name.declined,Avslått,Declined,Declined.
+enum.tax_reg_number_base.label.name.tax_reg_no,Skatteregistreringsnummer #,"Tax Reg # ","Tax Reg # "
+enum.item_price_base.period_unit.name.year,År,Year,A period of 1 calendar year.
+enum.payment_method_base.type.name.generic,Generisk.,Generic,Payments made via Generic Payment Method.
+enum.quote_base.status.name.accepted,Akseptert,Accepted,Accepted.
+enum.transaction_base.payment_method.name.upi,upi,upi,upi
+enum.transaction_base.payment_method.name.play_store,Play Store,Play Store,Play Store
+enum.bank_account_base.account_type.name.business_checking,Bedriftskontroll,Business Checking,Business Checking Account
+enum.plan_base.period_unit.name.day,Dag,Day,Charge based on day(s)
+enum.transaction_failure_reason.name.temporary_processing_issue,Midlertidig behandlingsproblem,Temporary processing issue,Temporary processing issue
+enum.invoice_base.status.name.not_paid,Ikke betalt,Not Paid,Indicates the payment is not made and all attempts to collect is failed.
+enum.transaction_base.payment_method.name.online_banking_poland,,Online Banking Poland,Online Banking Poland <span isMicro='true' featureId='cb-online-banking-poland'></span>
+enum.transaction_failure_reason.name.time_out,Pause,Time out,Time out
+enum.invoice_customization_base.invoice_title.name.invoice,FAKTURA,INVOICE,INVOICE
+enum.payment_method_base.type.name.pay_to,Betal til,Pay To,Payments made via PayTo <span isMicro='true' featureId='cb-pay-to'></span>
+enum.invoice_base.status.name.to_collect,Samling,Collecting,Collecting
+enum.transaction_base.payment_method.name.chargeback,Tilbakeføring,Chargeback,"Only applicable for a transaction of <code><a href=""transactions#transaction_type"">type</a></code> = <code>refund</code>. This value is set by Chargebee when an automated <a href=""https://www.chargebee.com/docs/chargeback.html#chargeback-process"" rel=""noopener noreferrer"" target=""_blank"">chargeback</a> occurs. You can also set this explicitly when <a href=""transactions#record_an_offline_refund"">recording a refund</a>."

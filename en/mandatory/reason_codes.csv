@@ -1,0 +1,25 @@
+key,value,reference value,description
+dy.create_credit_note.198cQjU9iSrN4gE,,Product Unsatisfactory,Label for Create Credit Note reason code : Product Unsatisfactory
+dy.create_credit_note.198cQjU9iSrN4gF,,Service Unsatisfactory,Label for Create Credit Note reason code : Service Unsatisfactory
+dy.create_credit_note.198cQjU9iSrN4gG,,Order Change,Label for Create Credit Note reason code : Order Change
+dy.create_credit_note.198cQjU9iSrN4gH,,Order Cancellation,Label for Create Credit Note reason code : Order Cancellation
+dy.create_credit_note.198cQjU9iSrN4gI,,Waiver,Label for Create Credit Note reason code : Waiver
+dy.create_credit_note.198cQjU9iSrN4gJ,,Other,Label for Create Credit Note reason code : Other
+dy.create_credit_note.198cQjU9iSrN4gK,,Fraudulent,Label for Create Credit Note reason code : Fraudulent
+dy.create_credit_note.198cQjU9iSrN4gL,,Chargeback,Label for Create Credit Note reason code : Chargeback
+dy.create_credit_note.198cQjU9iSrN4gM,,Subscription Change,Label for Create Credit Note reason code : Subscription Change
+dy.create_credit_note.198cQjU9iSrN4gN,,Subscription Cancellation,Label for Create Credit Note reason code : Subscription Cancellation
+dy.create_credit_note.198cQjU9iSrN4gO,,Subscription Pause,Label for Create Credit Note reason code : Subscription Pause
+dy.create_credit_note.198cQjU9iSrN4gP,,Write Off,Label for Create Credit Note reason code : Write Off
+dy.create_credit_note.198cQjU9iSrN4gQ,,Invoice Void,Label for Create Credit Note reason code : Invoice Void
+dy.subscription_cancellation.198cQjU9iSrN5gR,,Product Unsatisfactory,Label for Subscription Cancellation reason code : Product Unsatisfactory
+dy.subscription_cancellation.198cQjU9iSrN5gS,,Service Unsatisfactory,Label for Subscription Cancellation reason code : Service Unsatisfactory
+dy.subscription_cancellation.198cQjU9iSrN5gT,,Order Change,Label for Subscription Cancellation reason code : Order Change
+dy.subscription_cancellation.198cQjU9iSrN5gU,,Other,Label for Subscription Cancellation reason code : Other
+dy.subscription_cancellation.198cQjU9iSrN5gV,,Not Paid,Label for Subscription Cancellation reason code : Not Paid
+dy.subscription_cancellation.198cQjU9iSrN5gW,,No Card,Label for Subscription Cancellation reason code : No Card
+dy.subscription_cancellation.198cQjU9iSrN5gX,,Fraud Review Failed,Label for Subscription Cancellation reason code : Fraud Review Failed
+dy.subscription_cancellation.198cQjU9iSrN5gY,,Non Compliant EU Customer,Label for Subscription Cancellation reason code : Non Compliant EU Customer
+dy.subscription_cancellation.198cQjU9iSrN5gZ,,Tax Calculation Failed,Label for Subscription Cancellation reason code : Tax Calculation Failed
+dy.subscription_cancellation.198cQjU9iSrN5ga,,Currency Incompatible With Gateway,Label for Subscription Cancellation reason code : Currency Incompatible With Gateway
+dy.subscription_cancellation.198cQjU9iSrN5gb,,Non Compliant Customer,Label for Subscription Cancellation reason code : Non Compliant Customer

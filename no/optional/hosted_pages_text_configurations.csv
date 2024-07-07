@@ -1,0 +1,767 @@
+key,value,reference value,description
+cbjs_grp.bank,Bank,Bank,Bank
+cbjs_grp.select_bank,Velg bank,Select Bank,Select Bank
+cbjs_grp.list_supported_bank,Henter liste over støttede banker,Fetching list of supported banks,Fetching list of supported banks
+inapp_checkout.customer.header,Legg til kontodetaljene dine,Add your account details,Add your account details
+inapp_checkout.customer.header.edit,Redigering av kontodetaljer,Editing account details,Editing account details
+inapp_checkout.customer.update,Oppdatering,Update,Update
+inapp_checkout.customer.next,Neste,Next,Next
+inapp_checkout.billing_address.header,Legg til fakturaadressen din,Add your billing address,Add your billing address
+inapp_checkout.billing_address.header.edit,Redigerer fakturaadresse,Editing billing address,Editing billing address
+inapp_checkout.billing_address.update,Oppdatering,Update,Update
+inapp_checkout.billing_address.next,Neste,Next,Next
+inapp_checkout.shipping_address.header,Legg til din leveringsadresse,Add your shipping address,Add your shipping address
+inapp_checkout.shipping_address.header.edit,Redigerer leveringsadresse,Editing shipping address,Editing shipping address
+inapp_checkout.shipping_address.update,Oppdatering,Update,Update
+inapp_checkout.shipping_address.next,Neste,Next,Next
+inapp_checkout.choose_sa.header,Velg leveringsadresse,Choose Shipping address,Choose Shipping address
+inapp_checkout.billing_address.copy_to_shipping,Send til min fakturaadresse,Ship to my billing address,Ship to my billing address
+inapp_checkout.shipping_address.choose.add,Legg til ny,Add New,Add New
+inapp_checkout.payment_method.choose.add,Legg til betalingsmetode,Add Payment Method,Add Payment Method
+inapp_checkout.payment_method.header,Legg til betalingsdetaljene dine,Add your payment details,Add your payment details
+inapp_checkout.payment_method.header.edit,Redigering av betalingsdetaljer,Editing payment details,Editing payment details
+inapp_checkout.payment_method.header.select,Velg en betalingsmetode,Select a payment method,Select a payment method
+inapp_checkout.payment_method.footer.choose,Velg en annen betalingsmetode,Choose a different payment method,Choose a different payment method
+inapp_checkout.payment_method.update,Oppdatering,Update,Update
+inapp_checkout.payment_method.next,Neste,Next,Next
+inapp_checkout.subscription.header,Legg til dine abonnementsdetaljer,Add your subscription details,Add your subscription details
+inapp_checkout.invoice.header,Legg til detaljene for kjøpet ditt,Add your purchase details,Add your purchase details
+inapp_checkout.subscription.header.edit,Redigering av abonnementsdetaljer,Editing Subscription Details,Editing Subscription Details
+inapp_checkout.invoice.header.edit,Redigering av kjøpsdetaljer,Editing Purchase Details,Editing Purchase Details
+inapp_checkout.subscription.update,Oppdatering,Update,Update
+inapp_checkout.invoice.update,Oppdatering,Update,Update
+inapp_checkout.subscription.next,Neste,Next,Next
+inapp_checkout.invoice.next,Neste,Next,Next
+inapp_checkout.review.header,Fullfør bestillingen din,Complete your order,Complete your order
+inapp_checkout.pay_review.header,Fullfør bestillingen din,Complete your order,Complete your order
+inapp_checkout.review.subscribe_btn.current_charge_present.txt,Betal %{amount} &amp; abonner,Pay %{amount} & subscribe,Pay %{amount} & subscribe
+inapp_checkout.review.subscribe_btn.current_charge_zero.txt,Abonner,Subscribe,Subscribe
+inapp_checkout.review.order.header,Ordresammendrag,Order summary,Order summary
+inapp_checkout.review.account.header,Konto,Account,Account
+inapp_checkout.review.billing.header,Fakturering,Billing,Billing
+inapp_checkout.review.shipping.header,Frakt,Shipping,Shipping
+inapp_checkout.review.billing_shipping.header,Fakturering &amp; Frakt,Billing & Shipping,Billing & Shipping
+inapp_checkout.review.subscription.header,Abonnementsdetaljer,Subscription Details,Subscription Details
+inapp_checkout.review.invoice.header,Kjøpsdetaljer,Purchase Details,Purchase Details
+inapp_checkout.review.pm.header,Betaling,Payment,Payment
+inapp_checkout.review.more,Gjennomgå detaljer,Review Details,Review Details
+inapp_checkout.shipping_address.header.choose,Velg leveringsadresse,Choose Shipping Address,Choose Shipping Address
+inapp_checkout.choose_pm.header,Velg betalingsmetode,Choose Payment Method,Choose Payment Method
+inapp_checkout.coupon.apply,Søk,Apply,Apply
+inapp_checkout.coupon.label,Bruk kupong,Apply coupon,Apply coupon
+inapp_checkout.coupon.placeholder,Skriv inn kupongkode,Enter coupon code,Enter coupon code
+inapp_checkout.cart.header.edit,Rediger bestilling,Edit order,Edit order
+inapp_checkout.cart.header,Din bestilling,Your order,Your order
+inapp_checkout.cart.next,Fortsett til kassen,Proceed To Checkout,Proceed To Checkout
+inapp_checkout.cart.remove,Fjern,Remove,Remove
+inapp_checkout.cart.recommended_addon_title,Anbefalte tillegg,Recommended addons,Recommended addons
+inapp_checkout.payment_method.card.display_name,Kort,Card,Card
+inapp_checkout.payment_method.paypal.display_name,PayPal,PayPal,PayPal
+inapp_checkout.thankyou.header,,,
+inapp_checkout.thankyou.body,,,
+inapp_checkout.thankyou.close,LUKK,CLOSE,CLOSE
+inapp_checkout.otp.enter,Skriv inn ditt seks-sifrede engangspassord,Enter your six-digit one time password,Enter your six-digit one time password
+inapp_checkout.password.enter,Skriv inn passordet ditt,Enter your password,Enter your password
+inapp_checkout.otp.resend,Send engangspassordet på nytt,Resend the one time password,Resend the one time password
+inapp_checkout.login.via_otp,Logg inn via engangspassord,Login via one time password,Login via one time password
+inapp_checkout.otp.enter_password,Skriv inn passord i stedet,Enter password instead,Enter password instead
+inapp_checkout.otp_resend.notify,Ny engangspassord sendt til din e-postadresse,New one time password send to your email address,New one time password send to your email address
+inapp_checkout.checkuser.error.multiple_subscriptions_not_allowed,Du har allerede et abonnement hos oss,You already have a subscription with us,You already have a subscription with us
+inapp_checkout.otp.guest,Fortsett som gjest,Proceed as guest,Proceed as guest
+inapp_checkout.checkuser.email,Skriv inn e-post for å fortsette,Enter email to proceed,Enter email to proceed
+inapp_checkout.checkuser.next,Neste,Next,Next
+inapp_checkout.modal_button.confirm,Bekreft,Confirm,Confirm
+inapp_checkout.modal_button.cancel,Avbryt,Cancel,Cancel
+inapp_checkout.po_number.label,PO-nummer,PO Number,PO Number
+inapp_checkout.items_in_total.custom_label,,,
+inapp_checkout.discounts_applied.label,,,
+inapp_checkout.payment_method.bacs.guarantee.header,Tilbake til betaling,Back to Payment,Back to Payment
+inapp_checkout.payment_method.bank_account.btn.proceed_to_review,Fortsett til gjennomgang,Proceed to Review,Proceed to Review
+inapp_checkout.payment_method.bank_account.btn.enter_iban,Skriv inn IBAN,Enter IBAN,Enter IBAN
+inapp_checkout.payment_method.bank_account.btn.enter_local_details,Skriv inn lokale bankdetaljer,Enter local bank details,Enter local bank details
+inapp_checkout.payment_method.bank_account.btn.enter_your_name,Skriv inn navnet ditt,Enter your name,Enter your name
+inapp_checkout.payment_method.bank_account.btn.enter_company_name,Skriv inn firmanavn,Enter company name,Enter company name
+inapp_checkout.card.billing_address,Bruk min fakturaadresse som kortadresse,Use my billing address as card address,Use my billing address as card address
+inapp_checkout.card.shipping_address,Bruk min leveringsadresse som kortadresse,Use my shipping address as card address,Use my shipping address as card address
+inapp_checkout.item.breakdown.show,Se detaljer,See Details,See Details
+inapp_checkout.item.breakdown.hide,Skjul detaljer,Hide Details,Hide Details
+inapp_checkout.cart.trial.info,Du vil bli belastet etter %{plan_trial_period} prøveperiode,You will be charged after the %{plan_trial_period} trial.,You will be charged after the %{plan_trial_period} trial.
+inapp_checkout.cart.note.plan.trial,Du vil bli belastet etter prøveperioden på %{plan_trial_period},You will be charged after the %{plan_trial_period} trial.,You will be charged after the %{plan_trial_period} trial.
+inapp_checkout.review.note.plan.trial,,,
+inapp_checkout.payment_method.note.plan.trial,,,
+inapp_checkout.cart.note.plan.no_trial,,,
+inapp_checkout.review.note.plan.no_trial,,,
+inapp_checkout.payment_method.note.plan.no_trial,,,
+inapp_checkout.customer.note,,,
+inapp_checkout.subscription.note,,,
+inapp_checkout.shipping_address.note,,,
+inapp_checkout.billing_address.note,,,
+inapp_checkout.cart.pay_now.label,Betal nå,Pay now,Pay now
+inapp_checkout.cart.next_charge.label,Neste belastning på %{date},Next charge on %{date},Next charge on %{date}
+inapp_checkout.order_summary.charge_now.label,Kan belastes nå,Chargeable now,Chargeable now
+inapp_checkout.order_summary.next_charge.label,Gebyrer den %{date},Charges on %{date},Charges on %{date}
+inapp_checkout.order.edit.link,Rediger bestilling,Edit order,Edit order
+inapp_checkout.estimate_display_screen.header,Din ordresammendrag,Your order summary,Your order summary
+inapp_checkout.credits_applied.label,Kreditter anvendt,Credits applied,Credits applied
+inapp_checkout.non_rec_addon.tag,ENGANGS,ONE-TIME,ONE-TIME
+inapp_checkout.coupon.description,Kupong på %{amount} er brukt,%{amount} coupon applied,%{amount} coupon applied
+inapp_checkout.discount.description,Rabatt på %{amount} er anvendt,%{amount} discount applied,%{amount} discount applied
+inapp_checkout.free_quantity.description,%{units} enheter gratis,%{units} units free,%{units} units free
+inapp_checkout.referral.title,Henvis vennene dine,Refer your friends,Refer your friends
+inapp_checkout.referral.cb_reward,Henvis vennene dine og vi vil gi deg %{referral_credits} når de kjøper sitt første abonnement,Refer your friends and we will give you %{referral_credits} when they purchase their first subscription.,Refer your friends and we will give you %{referral_credits} when they purchase their first subscription.
+inapp_checkout.referral.custom_reward,"Henvis vennene dine, og vi vil belønne deg når de kjøper sitt første abonnement",Refer your friends and we will reward you when they purchase their first subscription.,Refer your friends and we will reward you when they purchase their first subscription.
+inapp_checkout.referral.friend_discount,Din venn vil få %{referral_friend_discount} rabatt,Your friend will get %{referral_friend_discount} discount.,Your friend will get %{referral_friend_discount} discount.
+inapp_checkout.referral.link_label,Din henvisningslenke,Your referral link,Your referral link
+inapp_checkout.review.threedsWarning.non_trial,Du kan bli omdirigert til bankens side for 3D-sikkerhetsverifisering,You may be redirected to your bank page for 3D secure verification.,You may be redirected to your bank page for 3D secure verification.
+inapp_checkout.review.threedsWarning.trial,"Du kan bli omdirigert til bankens side for 3D-sikkerhetsverifisering, hvor et symbolsk beløp kan bli belastet, som vil bli fullt refundert automatisk","You may be redirected to your bank page for 3D secure verification for which a token amount may be charged,which will be fully refunded automatically.","You may be redirected to your bank page for 3D secure verification for which a token amount may be charged,which will be fully refunded automatically."
+inapp_checkout.3ds.auth.txt,Jeg gir %{organisation_name} tillatelse til å lagre denne betalingsmetoden og automatisk belaste denne betalingsmetoden når et abonnement er knyttet til den,I authorize %{organisation_name} to save this payment method and automatically charge this payment method whenever a subscription is associated with it.,I authorize %{organisation_name} to save this payment method and automatically charge this payment method whenever a subscription is associated with it.
+inapp_checkout.otp_email.subject,Ditt engangspassord (OTP),Your One Time Password (OTP),Your One Time Password (OTP)
+inapp_checkout.otp_email.salutation,"Hei der,","Hi there,","Hi there,"
+inapp_checkout.otp_email.otp_line,%{otp} er ditt engangspassord,%{otp} is your one time password,%{otp} is your one time password
+inapp_checkout.otp_email.desc,Engangspassordet er gyldig i 5 minutter fra det tidspunktet det blir generert,The one time password is valid for 5 minutes from the time it is generated.,The one time password is valid for 5 minutes from the time it is generated.
+inapp_checkout.otp_sms.body,%{otp} er ditt engangspassord. Engangspassordet er gyldig i 5 minutter fra det tidspunktet det blir generert,%{otp} is your one time password. The one time password is valid for 5 minutes from the time it is generated.,%{otp} is your one time password. The one time password is valid for 5 minutes from the time it is generated.
+inapp_checkout.multi_decimal.quantity.error,Skriv inn gyldig mengde,Enter valid quantity,Enter valid quantity
+inapp_checkout.qty,Ant,Qty,Qty
+inapp_checkout.review.opm.cash.desc,Du kan betale med kontanter,You can make the payment by cash,You can make the payment by cash
+inapp_checkout.review.opm.check.desc,Du kan finne betalingsoverføringsdetaljene som en del av fakturaen,You can find the payment transfer details as part of the invoice,You can find the payment transfer details as part of the invoice
+inapp_checkout.review.opm.bank_transfer.desc,Du kan foreta betalingen til bankkonto detaljene som er til stede i fakturaen,You can make the payment to the bank account details present in the invoice,You can make the payment to the bank account details present in the invoice
+inapp_checkout.review.opm.ach_credit.desc,Du kan foreta betalingen til bankkonto detaljene som er til stede i fakturaen,You can make the payment to the bank account details present in the invoice,You can make the payment to the bank account details present in the invoice
+inapp_checkout.review.opm.sepa_credit.desc,Du kan foreta betalingen til bankkonto detaljene som er til stede i fakturaen,You can make the payment to the bank account details present in the invoice,You can make the payment to the bank account details present in the invoice
+inapp_checkout.pm.consent.txt,Jeg gir %{organisation_name} tillatelse til å lagre denne betalingsmetoden og automatisk belaste denne betalingsmetoden for eventuelle fremtidige transaksjoner knyttet til den,I authorize %{organisation_name} to save this payment method and automatically charge this payment method for any future transactions associated with it.,I authorize %{organisation_name} to save this payment method and automatically charge this payment method for any future transactions associated with it.
+inapp_checkout.pm.netbanking.auth_info.note,Du vil bli omdirigert til bankens nettbankside for autentisering,You will be redirected to your bank’s netbanking page for authentication.,You will be redirected to your bank’s netbanking page for authentication.
+inapp_checkout.pm.online_banking.auth_info.note,,You will be redirected to your bank’s netbanking page for authenticating a <b>one-time payment.</b> The next payment for this subscription’s will not be paid automatically.,You will be redirected to your bank’s netbanking page for authenticating a <b>one-time payment.</b> The next payment for this subscription’s will not be paid automatically.
+inapp_checkout.pm.never.save.txt,Din betalingsinformasjon vil ikke bli lagret i systemet vårt,Your payment information will not be saved in our system.,Your payment information will not be saved in our system.
+inapp_checkout.pm.rbi.card.mandate.note,Kort utstedt i India kan belastes opp til maksimalt mandatbeløp for tilbakevendende abonnementsbetalinger så lenge mandatet er gyldig. Betalinger over maksimalt mandatbeløp krever OTP-verifisering,Cards issued in India can be charged up to maximum mandate amount for recurring subscription payments until the mandate is valid. Payments above maximum mandate amount require OTP verification.,Cards issued in India can be charged up to maximum mandate amount for recurring subscription payments until the mandate is valid. Payments above maximum mandate amount require OTP verification.
+inapp_checkout.pm.rbi.upi.mandate.note,Du kan belastes opp til maksimalt mandatbeløp for gjentakende abonnementsbetalinger så lenge mandatet er gyldig,You can be charged up to maximum mandate amount for recurring subscription payments until the mandate is valid.,You can be charged up to maximum mandate amount for recurring subscription payments until the mandate is valid.
+inapp_checkout.pm.rbi.netbanking.mandate.note,Du kan belastes opp til maksimalt mandatbeløp for gjentakende abonnementsbetalinger så lenge mandatet er gyldig,You can be charged up to maximum mandate amount for recurring subscription payments until the mandate is valid.,You can be charged up to maximum mandate amount for recurring subscription payments until the mandate is valid.
+inapp_portal.recommended.addon.tag,ANBEFALT.,RECOMMENDED,RECOMMENDED
+inapp_portal.home.header,Administrer abonnementer,Manage Subscriptions,Manage Subscriptions
+inapp_portal.locale.label,Lokalitet,Locale,Locale
+inapp_portal.home.footer,Spørsmål? Vårt supportteam vil gjerne hjelpe,Questions? Our Support Team would be glad to help,Questions? Our Support Team would be glad to help
+inapp_portal.home.account.link_text,Kontoinformasjon,Account Information,Account Information
+inapp_portal.home.address.link_text,Fakturerings- og leveringsadresser,Billing & Shipping Addresses,Billing & Shipping Addresses
+inapp_portal.home.payment_methods.link_text,Betalingsmetoder,Payment Methods,Payment Methods
+inapp_portal.home.billing_history.link_text,Faktureringshistorikk,Billing History,Billing History
+inapp_portal.back,Tilbake,Back,Back
+inapp_portal.subscription.header,Abonnementsdetaljer,Subscription Details,Subscription Details
+inapp_portal.subscription.header.edit,Rediger abonnementsdetaljer,Edit Subscription Details,Edit Subscription Details
+inapp_portal.subscription.header.review,Gjennomgå endringer i abonnementet,Review subscription changes,Review subscription changes
+inapp_portal.account.header,Kontodetaljer,Account Details,Account Details
+inapp_portal.account.edit.txt,Redigering av kontodetaljer,Editing account details,Editing account details
+inapp_portal.account.header.edit,Oppdater kontodetaljene dine,Update your account details,Update your account details
+inapp_portal.account.header.edit.submit,Oppdatering,Update,Update
+inapp_portal.address.header,Fakturerings- og leveringsadresser,Billing & Shipping Addresses,Billing & Shipping Addresses
+inapp_portal.address.billing.txt,Fakturering,Billing,Billing
+inapp_portal.address.billing.edit.txt,Redigering av faktureringsdetaljer,Editing billing details,Editing billing details
+inapp_portal.address.billing.add.txt,Legg til dine faktureringsdetaljer,Add your billing details,Add your billing details
+inapp_portal.address.shipping.txt,Frakt,Shipping,Shipping
+inapp_portal.address.shipping.edit.txt,Redigerer fraktdetaljer,Editing shipping details,Editing shipping details
+inapp_portal.address.billing.header.edit,Oppdater faktureringsdetaljene dine,Update your billing details,Update your billing details
+inapp_portal.address.billing.header.edit.submit,Oppdatering.,Update,Update
+inapp_portal.address.shipping.header.edit,Oppdater dine frakt detaljer,Update your shipping details,Update your shipping details
+inapp_portal.address.shipping.header.edit.submit,Oppdatering.,Update,Update
+inapp_portal.payment_method.header,Betalingsmetoder,Payment Methods,Payment Methods
+inapp_portal.payment_method.link.add,Legg til ny,Add New,Add New
+inapp_portal.payment_method.link.add_new,Legg til en betalingsmetode,Add a payment method,Add a payment method
+inapp_portal.payment_method.header.add,Legg til en betalingsmetode,Add a payment method,Add a payment method
+inapp_portal.payment_method.header.select,Velg en betalingsmetode,Select a payment method,Select a payment method
+inapp_portal.payment_method.footer.choose,Velg en annen betalingsmetode,Choose a different payment method,Choose a different payment method
+inapp_portal.payment_method.header.add.submit,Legg til.,Add,Add
+inapp_portal.payment_method.header.edit,Oppdater betalingsmetoden din,Update your payment method,Update your payment method
+inapp_portal.payment_method.header.edit.submit,Oppdatering,Update,Update
+inapp_portal.payment_method.header.verify,Bekreft betalingsmetode,Verify payment method,Verify payment method
+inapp_portal.payment_method.header.verify.submit,Bekreft,Verify,Verify
+inapp_portal.billing_history.header,Faktureringshistorikk,Billing history,Billing history
+inapp_portal.billing_history.download,Last ned,Download,Download
+inapp_portal.billing_history.none,Ingen fakturaer å vise,No invoices to display,No invoices to display
+inapp_portal.subscription.header.edit.submit,Anmeldelse,Review,Review
+inapp_portal.subscription.header.review.submit,Oppdater abonnement,Update Subscription,Update Subscription
+inapp_portal.subscription.header.choose_pm,Velg betalingsmetode for dette abonnementet,Choose your payment method for this subscription,Choose your payment method for this subscription
+inapp_portal.subscription.update_sub_pm,Oppdater,Update,Update
+inapp_portal.subscription.cancel.link.txt,Avbryt abonnement,Cancel Subscription,Cancel Subscription
+inapp_portal.subscription.next.renewing_estimate.now,Du vil bli belastet %{amount} for forholdsmessige kostnader via,You will be charged %{amount} for prorated charges via,You will be charged %{amount} for prorated charges via
+inapp_portal.subscription.next.renewing_estimate.eot.non_recurring,Du vil bli belastet %{amount} via,You will be charged %{amount} via,You will be charged %{amount} via
+inapp_portal.subscription.next.renewing_estimate.eot,Du vil bli belastet %{amount} hver %{billing_period} via,You will be charged %{amount} every %{billing_period} via,You will be charged %{amount} every %{billing_period} via
+inapp_portal.subscription.next.renewing_estimate.eot.with_date,Din neste belastning %{amount} vil være på %{date} via,Your next charge %{amount} will be on %{date} via,Your next charge %{amount} will be on %{date} via
+inapp_portal.subscription.next.credits_created.now,"Du vil ikke bli belastet for denne endringen, og %{amount} vil bli lagt til som refunderbare kreditter",You will not be charged for this change and %{amount} will be added as refundable credits,You will not be charged for this change and %{amount} will be added as refundable credits
+inapp_portal.subscription.details.trial.info,"Du har %{remaining_trial_period} av prøveperioden igjen. Etter at prøveperioden utløper, vil du bli flyttet til %{plan_name} planen","You have %{remaining_trial_period} of trial left. After your trial expires, you’ll be moved to the %{plan_name} plan","You have %{remaining_trial_period} of trial left. After your trial expires, you’ll be moved to the %{plan_name} plan"
+inapp_portal.subscription.details.cancellation_scheduled.info,Ditt abonnement vil bli avsluttet den %{date},Your subscription will be canceled on %{date},Your subscription will be canceled on %{date}
+inapp_portal.subscription.next.renewing_estimate.now_zero,%{amount} trukket fra tilgjengelige kreditter,%{amount} charged from available credits.,%{amount} charged from available credits.
+inapp_portal.subscription.details.trial.info_today,"Din prøveperiode vil avsluttes i dag, og du vil bli flyttet til %{plan_name} plan",You trial will end today and you’ll be moved to the %{plan_name} plan,You trial will end today and you’ll be moved to the %{plan_name} plan
+inapp_portal.subscription.details.active.info,,,
+inapp_portal.subscription.details.non_renewing.info,Ditt abonnement vil avsluttes den %{date},Your subscription will end on %{date},Your subscription will end on %{date}
+inapp_portal.subscription.details.cancelled.info,AVBRUTT. Abonnementet ditt har blitt avbrutt. Kontakt oss for å reaktivere abonnementet ditt,CANCELED. Your subscription has been canceled. Contact us to reactivate your subscription,CANCELED. Your subscription has been canceled. Contact us to reactivate your subscription
+inapp_portal.subscription.details.paused.info,Ditt abonnement er for øyeblikket satt på pause,Your subscription is currently paused.,Your subscription is currently paused.
+inapp_portal.subscription.details.future.info,Ditt abonnement vil starte den %{date},Your subscription will start on %{date},Your subscription will start on %{date}
+inapp_portal.subscription.edit.txt,Rediger abonnement,Edit Subscription,Edit Subscription
+inapp_portal.choose_change_subscription.header,Endre abonnement,Change subscription,Change subscription
+inapp_portal.subscription.edit.chooser_question,Når vil du endre abonnementet?,When do you want to change the subscription?,When do you want to change the subscription?
+inapp_portal.subscription.change.immediately.option,Endre umiddelbart,Change immediately,Change immediately
+inapp_portal.subscription.change.eot.option,Endring ved neste fornyelse(%{date}),Change on next renewal(%{date}),Change on next renewal(%{date})
+inapp_portal.subscription.change.specific_date.option,Endring på en spesifikk dato,Change on a specific date,Change on a specific date
+inapp_portal.subscription.change.option.submit,Endre abonnement,Change subscription,Change subscription
+inapp_portal.subscription.change.options.proceed,fortsett,proceed,proceed
+inapp_portal.subscription.cancel.specific_date.option,Avbryt på en bestemt dato,Cancel on a specific date,Cancel on a specific date
+inapp_portal.remove_scheduled_changes.txt,Fjern planlagte endringer,Remove scheduled changes,Remove scheduled changes
+inapp_portal.subscription.remove_scheduled_cancellation.link_txt,Fjern planlagt avbestilling,Remove scheduled cancellation,Remove scheduled cancellation
+inapp_portal.remove_scheduled_changes.info,Disse endringene vil bli brukt på abonnementet ditt fra neste fornyelse ( %{date} ),These changes will be applied to your subscription from next renewal( %{date} ),These changes will be applied to your subscription from next renewal( %{date} )
+inapp_portal.payment_method.header.view,Betalingsmetode Detaljer,Payment Method Details,Payment Method Details
+inapp_portal.payment_method.view.remove,Fjern betalingsmetode,Remove Payment Method,Remove Payment Method
+inapp_portal.payment_method.view.edit,Rediger betalingsmetode,Edit Payment Method,Edit Payment Method
+inapp_portal.payment_method.view.remove_prompt,Er du sikker på at du vil fjerne denne betalingsmetoden?,Are you sure you want to remove this payment method?,Are you sure you want to remove this payment method?
+inapp_portal.subscription_cf.header.edit,Oppdater abonnementsdetaljene dine,Update your subscription details,Update your subscription details
+inapp_portal.subscription_cf.header.edit.submit,Oppdatering,Update,Update
+inapp_portal.discounts_applied.label,,,
+inapp_portal.items_in_total.custom_label,,,
+inapp_portal.more_items_txt.custom_label,,,
+inapp_portal.home.gift_sub.gifted_by,Mottatt fra %{name}. Svar kun med oversettelsen og ingenting annet,Recieved from %{name},Recieved from %{name}
+inapp_portal.sub_details.gift.gifted_by,Gitt av %{name},Gifted by %{name},Gifted by %{name}
+inapp_portal.subscription.cancel.header,Avbryt abonnement,Cancel Subscription,Cancel Subscription
+inapp_portal.subscription.cancel.header.submit,Bekreft Avbestilling,Confirm Cancellation,Confirm Cancellation
+inapp_portal.subscription.cancel.when,Når vil du avslutte abonnementet?,When do you want to cancel the subscription?,When do you want to cancel the subscription?
+inapp_portal.subscription.cancel.eot.option,Avbryt ved neste fornyelse (%{date}),Cancel on next renewal  (%{date}),Cancel on next renewal  (%{date})
+inapp_portal.subscription.cancel.immediately.option,Avbryt umiddelbart,Cancel Immediately,Cancel Immediately
+inapp_portal.subscription.cancel.immediately.info,Ditt abonnement vil bli kansellert umiddelbart,Your subscription will be canceled immediately,Your subscription will be canceled immediately
+inapp_portal.subscription.cancel.eot.info,Ditt abonnement vil bli avsluttet den %{date},Your subscription will be canceled on %{date},Your subscription will be canceled on %{date}
+inapp_portal.subscription.cancel.reason,Årsak til avbestilling,Reason for cancellation,Reason for cancellation
+inapp_portal.subscription.cancel.feedback,Er det noe annet du vil la oss vite?,Is there anything else you would like to let us know?,Is there anything else you would like to let us know?
+inapp_portal.subscription.cancel.reason.option,Velg en avbestillingsgrunn,Select a cancellation reason,Select a cancellation reason
+inapp_portal.subscription.canceled.reason_code.info,Ditt abonnement ble kansellert med grunnen &#39;%{reason}&#39;,Your subscription was canceled with the reason '%{reason}',Your subscription was canceled with the reason '%{reason}'
+inapp_portal.subscription.sch_cancel.reason_code.info,Ditt abonnement vil bli avsluttet med grunnen &#39;%{reason}&#39;,Your subscription will be canceled with the reason '%{reason}',Your subscription will be canceled with the reason '%{reason}'
+inapp_portal.scheduled_changes.header,Vis planlagte endringer,View scheduled changes,View scheduled changes
+inapp_portal.scheduled_changes_navigation.header,Endringer fra neste fornyelse,Changes from next renewal,Changes from next renewal
+inapp_portal.subscription_preview_navigation.header,Abonnementsdetaljer,Subscription Details,Subscription Details
+inapp_portal.consent.header,Tillatelser,Permissions,Permissions
+inapp_portal.consent_section.name,Tillatelser,Permissions,Permissions
+inapp_portal.consent.revoke_alert,Er du sikker?,Are you sure?,Are you sure?
+inapp_portal.consent.submit,Oppdatering,Update,Update
+inapp_portal.remove_scheduled_pause.confirm_txt,Den planlagte pausen for abonnementet ditt vil bli fjernet. Fortsett?,The scheduled pause for your subscription will be removed. Continue?,The scheduled pause for your subscription will be removed. Continue?
+inapp_portal.resume_subscription_now.confirm_txt,Ditt abonnement vil gjenopptas umiddelbart. Fortsett?,Your subscription will resume immediately. Continue?,Your subscription will resume immediately. Continue?
+inapp_portal.resume_now.link,Gjenoppta nå,Resume now,Resume now
+inapp_portal.remove_scheduled_pause.link,Fjern planlagt pause,Remove Scheduled Pause,Remove Scheduled Pause
+inapp_portal.subscription.details.pause_scheduled.info,Abonnementet ditt vil bli satt på pause den %{date},Your subscription will be paused on %{date},Your subscription will be paused on %{date}
+inapp_portal.subscription.details.resume_scheduled.info,Ditt abonnement vil gjenopptas den %{date},Your subscription will resume on %{date},Your subscription will resume on %{date}
+inapp_portal.subscription.pause.link.txt,Sett abonnement på pause,Pause Subscription,Pause Subscription
+inapp_portal.subscription.pause.header,Sett abonnement på pause,Pause Subscription,Pause Subscription
+inapp_portal.subscription.pause.submit,Sett abonnement på pause,Pause Subscription,Pause Subscription
+inapp_portal.subscription.pause.immediate_indefinite.info,Ditt abonnement vil bli satt på pause umiddelbart. Du kan gjenoppta abonnementet ditt når som helst fra Abonnementsdetaljer-siden,Your subscription will be paused immediately. You can resume your subscription anytime from the Subscription Details Page,Your subscription will be paused immediately. You can resume your subscription anytime from the Subscription Details Page
+inapp_portal.subscription.pause.immediate_fixed_time.info,"Ditt abonnement vil bli satt på pause umiddelbart, og vil gjenopptas etter %{pause_period_set} dager","Your subscription will be paused immediately, and will resume after %{pause_period_set} days.","Your subscription will be paused immediately, and will resume after %{pause_period_set} days."
+inapp_portal.subscription.pause.immediate_options.info,Abonnementet ditt vil bli satt på pause umiddelbart,Your subscription will be paused immediately.,Your subscription will be paused immediately.
+inapp_portal.subscription.pause.immediate_indefinite.gen,"Ved å sette på pause, vil abonnementet ditt ikke bli fakturert, og vil ikke fornyes","On pausing, your subscription will not be billed, and will not renew.","On pausing, your subscription will not be billed, and will not renew."
+inapp_portal.subscription.pause.immediate_fixed_time.gen,"Ved å sette på pause, vil abonnementet ditt ikke bli fakturert, og vil ikke fornyes","On pausing, your subscription will not be billed, and will not renew.","On pausing, your subscription will not be billed, and will not renew."
+inapp_portal.subscription.pause.immediate_options.gen,"Ved å sette på pause, vil abonnementet ditt ikke bli fakturert, og vil ikke fornyes","On pausing, your subscription will not be billed, and will not renew.","On pausing, your subscription will not be billed, and will not renew."
+inapp_portal.subscription.pause.eot_indefinite.info,Abonnementet ditt vil bli satt på pause den %{date},Your subscription will be paused on %{date}.,Your subscription will be paused on %{date}.
+inapp_portal.subscription.pause.eot_fixed_time.info,"Abonnementet ditt vil bli satt på pause den %{date}, og vil fortsette etter %{pause_period_set} dager","Your subscription will be paused on %{date} , and will resume after %{pause_period_set} days.","Your subscription will be paused on %{date} , and will resume after %{pause_period_set} days."
+inapp_portal.subscription.pause.eot_options.info,Abonnementet ditt vil bli satt på pause den %{date},Your subscription will be paused on %{date}.,Your subscription will be paused on %{date}.
+inapp_portal.subscription.pause.eot_indefinite.gen,"Ved å sette på pause, vil abonnementet ditt ikke bli belastet, og vil ikke fornyes","On pausing, your subscription will not be billed, and will not renew.","On pausing, your subscription will not be billed, and will not renew."
+inapp_portal.subscription.pause.eot_fixed_time.gen,"Ved å sette på pause, vil abonnementet ditt ikke bli belastet, og vil ikke fornyes","On pausing, your subscription will not be billed, and will not renew.","On pausing, your subscription will not be billed, and will not renew."
+inapp_portal.subscription.pause.eot_options.gen,"Ved å sette på pause, vil abonnementet ditt ikke bli fakturert, og vil ikke fornyes","On pausing, your subscription will not be billed, and will not renew.","On pausing, your subscription will not be billed, and will not renew."
+inapp_portal.subscription.pause.chooser_question,Hvor lenge vil du sette abonnementet på pause?,How long do you want to pause the subscription?,How long do you want to pause the subscription?
+inapp_portal.subscription.pause.custom_date,Tilpasset dato,Custom date,Custom date
+inapp_portal.subscription.pause.choose_specific_date,(Velg en spesifikk dato),(Choose a specific date),(Choose a specific date)
+inapp_portal.subscription.pause.pause_until,Pause inntil,Pause until,Pause until
+inapp_portal.payment_method_tag.primary,Primær,Primary,Primary
+inapp_portal.payment_method_tag.backup,Sikkerhetskopi,Backup,Backup
+inapp_portal.payment_method.suggest_backup,Sikkerhetskopier kommer godt med når din primære betaling mislykkes. Sett opp en sikkerhetskopi,Backups come handy when your primary payment fails. Set a backup.,Backups come handy when your primary payment fails. Set a backup.
+inapp_portal.card.expiring,Utløper den %{card_expiry},Expires on %{card_expiry},Expires on %{card_expiry}
+inapp_portal.card.expired,Utløpt den %{card_expiry},Expired on %{card_expiry},Expired on %{card_expiry}
+inapp_portal.pm.set_role.link,Sett dette som primær eller sikkerhetskopi,Set this as primary or backup,Set this as primary or backup
+inapp_portal.pm.set_role.title,Sett denne betalingsmetoden som,Set this payment method as,Set this payment method as
+inapp_portal.pm.set_role.header,Innstillinger for betalingsmetode,Payment Method Settings,Payment Method Settings
+inapp_portal.pm.set_role.update_btn,Oppdatering,Update,Update
+inapp_portal.pm.set_role.skip_btn,Hopp over,Skip,Skip
+inapp_portal.pm.remove_backup.link,Fjern som sikkerhetskopi,Remove as backup,Remove as backup
+inapp_portal.pm.remove_backup.message,Fjerne sikkerhetskopi? Sikkerhetskopier kommer godt med når din primære betalingsmetode feiler,Remove backup? Backups come handy when your primary payment method fails.,Remove backup? Backups come handy when your primary payment method fails.
+inapp_portal.pm.remove_backup.confirm,Fjern,Remove,Remove
+inapp_portal.pm.set_primary.message,Sett dette som primær? Dette vil erstatte din nåværende primære betalingsmetode,Set this as primary? This will replace your current primary payment method,Set this as primary? This will replace your current primary payment method
+inapp_portal.pm.set_primary.confirm,Bekreft,Confirm,Confirm
+inapp_portal.pm.set_primary.link,Sett som primær,Set as primary,Set as primary
+inapp_portal.pm.primary.desc.txt,Dette er din primære betalingsmetode,This is your primary payment method,This is your primary payment method
+inapp_portal.pm.backup.desc.txt,Dette er din reserveløsning for betalingsmetode,This is your backup payment method,This is your backup payment method
+inapp_portal.pm.primary.warning.txt,Dette vil erstatte din nåværende primære betalingsmetode,This will replace your current primary payment method,This will replace your current primary payment method
+inapp_portal.pm.backup.warning.txt,Dette vil erstatte din nåværende betalingsmetode for sikkerhetskopi,This will replace your current backup payment method,This will replace your current backup payment method
+inapp_portal.pm.primary.info.txt,Dette vil bli belastet for alle dine automatiske betalinger,This will be charged for all your automatic payments.,This will be charged for all your automatic payments.
+inapp_portal.pm.backup.info.txt,Dette vil være reserven når din primære betalingsmetode feiler,This will be the backup when your primary payment method fails.,This will be the backup when your primary payment method fails.
+inapp_portal.pm.primary.desc.detail,Dette vil bli belastet for alle dine automatiske betalinger,This will be charged for all your automatic payments.,This will be charged for all your automatic payments.
+inapp_portal.pm.backup.desc.detail,Dette vil være backupen når din primære betalingsmetode feiler,This will be the backup when your primary payment method fails.,This will be the backup when your primary payment method fails.
+inapp_portal.subscription.details.pm_warning,"Sørg for å holde denne betalingsmetoden oppdatert, da din reserveløsning for betaling ikke vil bli brukt for dette abonnementet","Make sure to keep this payment method updated, as your backup payment method will not be used for this subscription.","Make sure to keep this payment method updated, as your backup payment method will not be used for this subscription."
+inapp_portal.error.future_date.required,Vennligst oppgi en fremtidig dato i riktig format for å behandle forespørselen,Please provide a future date in correct format to process the request.,Please provide a future date in correct format to process the request.
+inapp_portal.addon_item_price_selection.header,Endre tilleggsfrekvens,Change addon frequency,Change addon frequency
+inapp_portal.addon_item_price_selection.title,Velg faktureringsfrekvens,Select billing frequency,Select billing frequency
+inapp_portal.addon_item_price_selection.update.btn,Oppdatering,Update,Update
+inapp_portal.item_selection.header,Endre plan,Change plan,Change plan
+inapp_portal.item_selection.title,Velg faktureringsfrekvens,Select billing frequency,Select billing frequency
+inapp_portal.item_selection.update.btn,Oppdatering,Update,Update
+inapp_portal.subscription.reactivate.link.txt,Reaktiver abonnement,Reactivate Subscription,Reactivate Subscription
+inapp_portal.reactivate_confirm.txt,Er du sikker på at du vil reaktivere dette abonnementet?,Are you sure you want to reactivate this subscription?,Are you sure you want to reactivate this subscription?
+inapp_portal.remove_cancellation.confirm_txt,Er du sikker på at du vil fjerne den planlagte avbestillingen?,Are you sure you want to remove the scheduled cancellation?,Are you sure you want to remove the scheduled cancellation?
+inapp_portal.remove_scheduled_changes_confirm.txt,Er du sikker på at du vil fjerne de planlagte endringene?,Are you sure you want to remove the scheduled changes?,Are you sure you want to remove the scheduled changes?
+inapp_portal.modal_button.confirm,Bekreft,Confirm,Confirm
+inapp_portal.modal_button.cancel,Avbryt,Cancel,Cancel
+inapp_portal.subscriptions.load_more,Last inn mer,Load more,Load more
+inapp_portal.subscriptions.more,Se alle dine abonnementer,See all your subscriptions,See all your subscriptions
+inapp_portal.portal_home.close,Utgang,Exit,Exit
+inapp_portal.change_item.txt,Endring,Change,Change
+inapp_portal.add_addons.txt,Legg til tillegg,Add Addons,Add Addons
+inapp_portal.add_addons.btn,Legg til,Add,Add
+inapp_portal.edit_addon_item.btn,Rediger,Edit,Edit
+inapp_portal.add_addons.non_rec.title,ENGANGSAVGIFTER,ONE-TIME CHARGES,ONE-TIME CHARGES
+inapp_portal.item.breakdown.show,Se detaljer,See Details,See Details
+inapp_portal.item.breakdown.hide,Skjul detaljer,Hide Details,Hide Details
+inapp_portal.subscription.view_breakup,Se nedbrytning,View breakdown,View breakdown
+inapp_portal.payment_method.bacs.guarantee.header,Tilbake til betaling,Back to Payment,Back to Payment
+inapp_portal.payment_method.bank_account.btn.proceed_to_review,Fortsett til gjennomgang,Proceed to Review,Proceed to Review
+inapp_portal.payment_method.bank_account.btn.enter_iban,Skriv inn IBAN,Enter IBAN,Enter IBAN
+inapp_portal.payment_method.bank_account.btn.enter_local_details,Skriv inn lokale bankdetaljer,Enter local bank details,Enter local bank details
+inapp_portal.payment_method.bank_account.btn.enter_your_name,Skriv inn navnet ditt,Enter your name,Enter your name
+inapp_portal.payment_method.bank_account.btn.enter_company_name,Skriv inn firmanavn,Enter company name,Enter company name
+inapp_portal.payment_method.bank_account.stripe_ach_verify_note,Du har maksimalt 10 forsøk på å verifisere betalingsmetoden din,You have a maximum of 10 attempts to verify your payment method.,You have a maximum of 10 attempts to verify your payment method.
+inapp_portal.home.gift_bar,Gav %{number} abonnementer,Gifted %{number} subscriptions,Gifted %{number} subscriptions
+inapp_portal.home.gift_header,GAVEABONNEMENTER,GIFT SUBSCRIPTIONS,GIFT SUBSCRIPTIONS
+inapp_portal.gift_tag.scheduled,Gave til %{name} planlagt,Gift to %{name} scheduled,Gift to %{name} scheduled
+inapp_portal.gift_tag.unclaimed,Gave ennå ikke hentet av %{name},Gift yet to be claimed by %{name},Gift yet to be claimed by %{name}
+inapp_portal.gift_tag.claimed,Gitt til %{name},Gifted to %{name},Gifted to %{name}
+inapp_portal.gift_tag.canceled,Gaven til %{name} har blitt kansellert,Gift to %{name} has been canceled,Gift to %{name} has been canceled
+inapp_portal.gift_tag.expired,Gaven til %{name} har utløpt,Gifted to %{name} has been expired,Gifted to %{name} has been expired
+inapp_portal.gift_details_notification.scheduled,Gaven din vil bli sendt til mottakeren via e-post på %{date},Your gift will be sent to the recipient via email on %{date},Your gift will be sent to the recipient via email on %{date}
+inapp_portal.gift_details_notification.unclaimed,Gaven din er ennå ikke blitt hentet av mottakeren,Your gift is yet to be claimed by the recipient.,Your gift is yet to be claimed by the recipient.
+inapp_portal.gift_details_notification.canceled,Gaven din har blitt kansellert,Your gift has been canceled,Your gift has been canceled
+inapp_portal.gift_details_notification.claimed,,,
+inapp_portal.gift_details_notification.expired,Gaven din ble ikke hentet av mottakeren,Your gift was not claimed by the recipient,Your gift was not claimed by the recipient
+inapp_portal.gift.cancel_by_gifter,Avbryt gaven,Cancel the gift,Cancel the gift
+inapp_portal.gift.cancel_by_gifter.warning,Er du sikker på at du vil avbryte denne gaven?,Are you sure you want to cancel this gift?,Are you sure you want to cancel this gift?
+inapp_portal.hierarchy.my_subscription.my_payment,Dette abonnementet betales av deg og faktureres til deg,This subscription is paid by you and invoiced to you.,This subscription is paid by you and invoiced to you.
+inapp_portal.hierarchy.my_subscription.my_invoice,Dette abonnementet betales av %{customer_display_info} og faktureres til deg,This subscription is paid by %{customer_display_info} and invoiced to you.,This subscription is paid by %{customer_display_info} and invoiced to you.
+inapp_portal.hierarchy.my_subscription.parent_payment,Dette abonnementet er betalt av og fakturert til %{customer_display_info},This subscription is paid by and invoiced to %{customer_display_info}.,This subscription is paid by and invoiced to %{customer_display_info}.
+inapp_portal.hierarchy.my_subscription.paid_parent,Betalt av %{customer_display_info},Paid by %{customer_display_info},Paid by %{customer_display_info}
+inapp_portal.home.my_subscription.parent_pays,Betalt av %{customer_display_info},Paid by %{customer_display_info},Paid by %{customer_display_info}
+inapp_portal.home.child_sub_bar.multiple,%{number} barneabonnementer,%{number} Child subscriptions,%{number} Child subscriptions
+inapp_portal.home.child_sub_bar.single,Barnabonnement,%{number} Child subscription,%{number} Child subscription
+inapp_portal.home.child_sub_header,Barnabonnementer,Child subscriptions,Child subscriptions
+inapp_portal.child_subs.navigation_header,Barnabonnementer,Child subscriptions,Child subscriptions
+inapp_portal.see_parent_invoices,Se fakturaer betalt av %{customer_display_info} for dine abonnementer,See invoices paid by %{customer_display_info} for your subscritpions.,See invoices paid by %{customer_display_info} for your subscritpions.
+inapp_portal.invoice.paid_for_child,Denne fakturaen tilhører %{customer_display_info} og er betalt av deg,This invoice belongs to %{customer_display_info} and is paid by you.,This invoice belongs to %{customer_display_info} and is paid by you.
+inapp_portal.invoice.parent_only,Du ser denne fakturaen fordi du er forelder til denne kunden,You are seeing this invoice as you are the parent of this customer.,You are seeing this invoice as you are the parent of this customer.
+inapp_portal.child_sub_detail.invoice.to_parent,Dette abonnementet betales av deg og faktureres til deg,This subscription is paid by you and invoiced to you.,This subscription is paid by you and invoiced to you.
+inapp_portal.child_sub_detail.invoice.to_child,Dette abonnementet betales av deg og faktureres til %{customer_display_info},This subscription is paid by you and invoiced to %{customer_display_info}.,This subscription is paid by you and invoiced to %{customer_display_info}.
+inapp_portal.child_sub_detail.payment_and_invoice.to_child,Dette abonnementet er betalt av og fakturert til %{customer_display_info},This subscription is paid by and invoiced to %{customer_display_info}.,This subscription is paid by and invoiced to %{customer_display_info}.
+inapp_portal.invoices.paid_py_parent,%{customer_display_info} betaler for denne fakturaen,%{customer_display_info} pays for this invoice.,%{customer_display_info} pays for this invoice.
+inapp_portal.invoice,Faktura # %{id}. Bare svar med oversettelsen og ingenting annet,Invoice # %{id},Invoice # %{id}
+inapp_portal.payment_owner_billing_history.header,Fakturaer fra forelder,Invoices of parent,Invoices of parent
+inapp_portal.child_subscription.header,Detaljer om barnets abonnement,Child subscription details,Child subscription details
+inapp_portal.invoice.payment.status.not_paid,Ikke betalt,Not Paid,Not Paid
+inapp_portal.invoice.payment.status.paid,Betalt,Paid,Paid
+inapp_portal.invoice.payment.status.payment_due,Betalingsfrist,Payment Due,Payment Due
+inapp_portal.invoice.payment.status.pending,Ventende,Pending,Pending
+inapp_portal.invoice.payment.status.posted,Postet,Posted,Posted
+inapp_portal.invoice.payment.status.to_collect,Samling,Collecting,Collecting
+inapp_portal.invoice.payment.status.upcoming,Kommende,Upcoming,Upcoming
+inapp_portal.invoice.payment.status.voided,Annullert,Voided,Voided
+inapp_portal.subscription.extend.header,Forleng abonnementet ditt,Extend your subscription,Extend your subscription
+inapp_portal.subscription.extend.submit,Forleng med en annen %{extension_period},Extend for another %{extension_period},Extend for another %{extension_period}
+inapp_portal.subscription.extend.expiry.warning,Din nåværende plan vil utløpe den %{sub_cancel_date},Your current plan will expire on %{sub_cancel_date},Your current plan will expire on %{sub_cancel_date}
+inapp_portal.subscription.extend.info,Gebyrer for å utvide planen din vil være gjeldende på %{sub_cancel_date}. Svar bare med oversettelsen og ingenting annet,Charges for extending your plan will be applicable on %{sub_cancel_date},Charges for extending your plan will be applicable on %{sub_cancel_date}
+inapp_portal.subscription.extend.thankyou.header,Takk for at du forlenger abonnementet,Thank you for extending the subscription,Thank you for extending the subscription
+inapp_portal.subscription.extend.thankyou.body,Ditt abonnement er forlenget med en annen %{extension_period},Your subscription has been extended for another %{extension_period},Your subscription has been extended for another %{extension_period}
+inapp_portal.subscription.extend.thankyou.close,LUKK,CLOSE,CLOSE
+inapp_portal.review.pm.header,Betaling,Payment,Payment
+inapp_portal.review.pm.not_available,Ingen betalingsmetode tilgjengelig,No payment method available,No payment method available
+inapp_portal.home.note,,,
+inapp_portal.account.note,,,
+inapp_portal.edit_account.note,,,
+inapp_portal.address.note,,,
+inapp_portal.edit_shipping_address.note,,,
+inapp_portal.edit_billing_address.note,,,
+inapp_portal.edit_subscription_cf.note,,,
+inapp_portal.payment_method.note,,,
+inapp_portal.subscription.note.trial,,,
+inapp_portal.subscription.note.active,,,
+inapp_portal.subscription.note.future,,,
+inapp_portal.subscription.note.non_renewing,,,
+inapp_portal.subscription.note.cancelled,,,
+inapp_portal.subscription.note.cancellation_scheduled,,,
+inapp_portal.estimate_display_screen.header,Sammendrag av bestillingen din,Your order summary,Your order summary
+inapp_portal.manage_pm.redirect.label,Gå til app,Go to app,Go to app
+inapp_portal.threeds.warning,Du kan bli omdirigert til bankens side for 3D-sikkerhetsverifisering,You may be redirected to your bank page for 3D secure verification.,You may be redirected to your bank page for 3D secure verification.
+inapp_portal.3ds.auth.txt,Jeg gir %{organisation_name} tillatelse til å lagre denne betalingsmetoden og automatisk belaste denne betalingsmetoden når et abonnement er knyttet til den,I authorize %{organisation_name} to save this payment method and automatically charge this payment method whenever a subscription is associated with it.,I authorize %{organisation_name} to save this payment method and automatically charge this payment method whenever a subscription is associated with it.
+inapp_portal.home.promotions.link_text,Henvis &amp; Tjen,Refer & Earn,Refer & Earn
+inapp_portal.promotions.header,Kampanjer,Promotions,Promotions
+inapp_portal.subscription.note.pause_subscription,,,
+inapp_portal.setup_password.section.name,Opprett passord,Set up Password,Set up Password
+inapp_portal.setup_password.header,Opprett passordet ditt,Set up your Password,Set up your Password
+inapp_portal.change_password.section.name,Endre passord,Change Password,Change Password
+inapp_portal.change_password_verify.header,Endre passordet ditt,Change your Password,Change your Password
+inapp_portal.verify_otp.header,Skriv inn OTP,Enter OTP,Enter OTP
+inapp_portal.change_password_verify.next,Fortsett,Proceed,Proceed
+inapp_portal.change_password_verify.current_password.label,Skriv inn ditt nåværende passord,Enter your current password,Enter your current password
+inapp_portal.change_password.header,Skriv inn nytt passord,Enter new password,Enter new password
+inapp_portal.new_password.label,Skriv inn nytt passord,Enter new password,Enter new password
+inapp_portal.new_password.update_btn,Oppdatering,Update,Update
+inapp_portal.password.validation.desc,Passordet ditt må ha,Your password must have,Your password must have
+inapp_portal.password.validation.min_char,Minst 8 tegn,At least 8 characters,At least 8 characters
+inapp_portal.password.validation.number,Minst ett nummer,At least one number,At least one number
+inapp_portal.password.validation.special,Minst ett spesialtegn &#64;$!%*#?&amp;(),At least one special character @$!%*#?&(),At least one special character @$!%*#?&()
+inapp_portal.subscription.summary.additionalInfo,,,
+inapp_portal.child_subscription.summary.additionalInfo,,,
+inapp_portal.app_store.manage_subscription.notice,Du kan administrere dine iOS-abonnementer gjennom din Apple ID,You can manage your iOS subscriptions through your Apple ID.,You can manage your iOS subscriptions through your Apple ID.
+inapp_portal.app_store.manage_subscription.link,Lær mer,Learn More,Learn More
+inapp_portal.app_store.invoice_summary.download_tooltip,Du kan bare hente fakturaer for dette abonnementet fra Apple,You can only retrieve invoices for this subscription from Apple,You can only retrieve invoices for this subscription from Apple
+inapp_portal.play_store.manage_subscription.notice,Du kan administrere dette abonnementet på Google Play,You can manage this subscription on Google Play.,You can manage this subscription on Google Play.
+inapp_portal.play_store.manage_subscription.link,Lær mer,Learn More,Learn More
+inapp_portal.play_store.invoice_summary.download_tooltip,Du kan laste ned fakturaer for dette abonnementet fra Google Payments Center,You can download invoices for this subscription from Google Payments Center,You can download invoices for this subscription from Google Payments Center
+inapp_portal.contract_term.summary.title,Abonnementsvilkår,Subscription Terms,Subscription Terms
+inapp_portal.contract_term.summary.total_contract_value,Total kontraktsverdi,Total contract value,Total contract value
+inapp_portal.contract_term.summary.billing_cycle,Faktureringssykluser,Billing cycles,Billing cycles
+inapp_portal.contract_term.summary.end_action_renew,Kontrakten fornyes,Contract renews,Contract renews
+inapp_portal.contract_term.summary.end_action_evergreen,Kontrakten avsluttes,Contract ends,Contract ends
+inapp_portal.contract_term.summary.end_action_evergreen_sub_active,Abonnementet vil forbli aktivt,subscription will remain active,subscription will remain active
+inapp_portal.contract_term.summary.end_action_cancel,Kontrakten avsluttes,Contract ends,Contract ends
+inapp_portal.contract_term.summary.end_action_renew_once,Kontrakten fornyes for en ytterligere periode på,Contract renews for one more term on,Contract renews for one more term on
+inapp_portal.contract_term.details.header.title,Kontraktsammendrag,Contract Summary,Contract Summary
+inapp_portal.contract_term.details.tcv.title,Total kontraktsverdi,Total contract value,Total contract value
+inapp_portal.contract_term.details.term.title,Kontraktsperiode,Contract term,Contract term
+inapp_portal.contract_term.details.term.to,til,to,to
+inapp_portal.contract_term.details.bill_cyc.title,Faktureringssykluser,Billing cycles,Billing cycles
+inapp_portal.contract_term.details.bill_cyc.total,Totalt,Total,Total
+inapp_portal.contract_term.details.bill_cyc.billed,Fakturert,Billed,Billed
+inapp_portal.contract_term.details.term_end.title,Ved kontraktens utløp,On contract term end,On contract term end
+inapp_portal.contract_term.details.term_end.renew,Kontrakten vil fornyes for %{number} faktureringssykluser,Contract will renew for %{number} billing cycles,Contract will renew for %{number} billing cycles
+inapp_portal.contract_term.details.term_end.evergreen,Kontrakten avsluttes (abonnementet vil forbli aktivt),Contract ends (subscription will remain active),Contract ends (subscription will remain active)
+inapp_portal.contract_term.details.term_end.cancel,Kontrakt og abonnement slutter,Contract and subscription end.,Contract and subscription end.
+inapp_portal.contract_term.details.term_end.renew_once,Kontrakten vil fornyes for en ytterligere periode,Contract will renew for one more term.,Contract will renew for one more term.
+inapp_portal.contract_term.details.grace_period.title,Avbryt før,Cancel before,Cancel before
+inapp_portal.contract_term.details.grace_period.note,Hvis du ikke ønsker at kontrakten din skal fornyes,If you do not want your contract to renew.,If you do not want your contract to renew.
+inapp_portal.contract_term.details.end_action.cancel.notification,Ditt abonnement vil bli avsluttet ved slutten av kontraktstiden den %{date},Your subscription will be canceled at the end of contract term on %{date},Your subscription will be canceled at the end of contract term on %{date}
+inapp_portal.contract_term.details.end_action.renew_next_bill_cyc.notification,Kontrakten din vil fornyes for en ny periode. Gebyrer vil gjelde frem til slutten av neste kontraktsperiode,Your contract will renew for one more term. Charges will apply until the end of the next contract term.,Your contract will renew for one more term. Charges will apply until the end of the next contract term.
+inapp_portal.contract_term.order_summary.tcv,Total kontraktsverdi,Total contract value,Total contract value
+inapp_portal.contract_term.subscription.note,Dette abonnementet er på kontrakt,This subscription is on contract,This subscription is on contract
+inapp_portal.contract_term.cancel.end_action.cancel.title,Ditt abonnement vil bli kansellert ved slutten av kontraktstiden den %{date},Your subscription will be canceled at the end of the contract term on %{date},Your subscription will be canceled at the end of the contract term on %{date}
+inapp_portal.contract_term.cancel.end_action.cancel.notification,Ditt abonnement vil forbli aktivt og gebyrer vil gjelde til kontrakten avsluttes. Har du spørsmål? Kontakt oss,Your subscription will remain active and charges will apply until the contract ends. Have questions? Contact us.,Your subscription will remain active and charges will apply until the contract ends. Have questions? Contact us.
+inapp_portal.contract_term.cancel.end_action.renew_next_bill_cyc.title,Ditt abonnement vil fornyes for en ytterligere kontraktsperiode etter %{date},Your subscription will renew for one more contract term after %{date},Your subscription will renew for one more contract term after %{date}
+inapp_portal.contract_term.cancel.end_action.renew_next_bill_cyc.notification,Abonnementet ditt passerte fristen for avbestilling og vil fornyes for en periode til,Your subscription passed the cut-off date for cancellation and will renew for one more term.,Your subscription passed the cut-off date for cancellation and will renew for one more term.
+inapp_portal.contract_term.reactivate.confirmation_text,Ditt abonnement vil bli reaktivert uten kontraktsvilkår,Your subscription will reactivate without contract terms,Your subscription will reactivate without contract terms
+inapp_portal.multi_decimal.quantity.error,Skriv inn gyldig mengde,Enter valid quantity,Enter valid quantity
+inapp_portal.qty,Ant,Qty,Qty
+inapp_portal.pm.netbanking.auth_info.note,Du vil bli omdirigert til bankens nettbankside for autentisering,You will be redirected to your bank’s netbanking page for authentication.,You will be redirected to your bank’s netbanking page for authentication.
+inapp_portal.pm.rbi.card.mandate.note,Kort utstedt i India kan belastes opp til maksimalt mandatbeløp for tilbakevendende abonnementsbetalinger så lenge mandatet er gyldig. Betalinger over maksimalt mandatbeløp krever OTP-verifisering,Cards issued in India can be charged up to maximum mandate amount for recurring subscription payments until the mandate is valid. Payments above maximum mandate amount require OTP verification.,Cards issued in India can be charged up to maximum mandate amount for recurring subscription payments until the mandate is valid. Payments above maximum mandate amount require OTP verification.
+inapp_portal.pm.rbi.upi.mandate.note,Du kan belastes opp til maksimalt mandatbeløp for gjentakende abonnementsbetalinger så lenge mandatet er gyldig,You can be charged up to maximum mandate amount for recurring subscription payments until the mandate is valid.,You can be charged up to maximum mandate amount for recurring subscription payments until the mandate is valid.
+inapp_portal.pm.rbi.netbanking.mandate.note,Du kan belastes opp til maksimalt mandatbeløp for gjentakende abonnementsbetalinger så lenge mandatet er gyldig,You can be charged up to maximum mandate amount for recurring subscription payments until the mandate is valid.,You can be charged up to maximum mandate amount for recurring subscription payments until the mandate is valid.
+paynow.button.txt,Betal nå: %{amount}. Svar kun med oversettelsen og ingenting annet,Pay now: %{amount},Pay now: %{amount}
+paynow.header.txt,Du har %{total} ubetalte faktura(er). Din totale gjeld er %{amount},You have %{total} unpaid invoice(s). Your total due is %{amount},You have %{total} unpaid invoice(s). Your total due is %{amount}
+paynow.no_invoices.txt,Du har ingen ubetalte fakturaer,You have no unpaid invoices,You have no unpaid invoices
+paynow.header.choosepm.txt,Velg betalingsmetode,Choose Payment Method,Choose Payment Method
+paynow.modal.newpm.use,Bruk en annen betalingsmetode,Use a different payment method,Use a different payment method
+paynow.header.addpm.txt,Legg til betalingsmetode,Add Payment Method,Add Payment Method
+paynow.thankyou.header,Betalingen din var vellykket!,Your payment was successful!,Your payment was successful!
+paynow.thankyou.body,,,
+paynow.thankyou.close,LUKK,CLOSE,CLOSE
+paynow.modal_button.confirm,Bekreft,Confirm,Confirm
+paynow.modal_button.cancel,Avbryt,Cancel,Cancel
+paynow.payment_method.bacs.guarantee.header,Tilbake til betaling,Back to Payment,Back to Payment
+paynow.payment_method.bank_account.btn.proceed_to_review,Fortsett til gjennomgang,Proceed to Review,Proceed to Review
+paynow.payment_method.bank_account.btn.enter_iban,Skriv inn IBAN,Enter IBAN,Enter IBAN
+paynow.payment_method.bank_account.btn.enter_local_details,Skriv inn lokale bankdetaljer,Enter local bank details,Enter local bank details
+paynow.payment_method.bank_account.btn.enter_your_name,Skriv inn navnet ditt,Enter your name,Enter your name
+paynow.payment_method.bank_account.btn.enter_company_name,Skriv inn firmanavn,Enter company name,Enter company name
+paynow.redirect.label,Gå til appen,Go to app,Go to app
+paynow.threeds.warning,Du kan bli omdirigert til bankens side for 3D sikkerhetsverifisering,You may be redirected to your bank page for 3D secure verification.,You may be redirected to your bank page for 3D secure verification.
+paynow.3ds.auth.txt,Jeg gir %{organisation_name} tillatelse til å lagre denne betalingsmetoden og automatisk belaste denne betalingsmetoden når et abonnement er knyttet til den,I authorize %{organisation_name} to save this payment method and automatically charge this payment method whenever a subscription is associated with it.,I authorize %{organisation_name} to save this payment method and automatically charge this payment method whenever a subscription is associated with it.
+paynow.pm.netbanking.auth_info.note,Du vil bli omdirigert til bankens nettbankside for autentisering,You will be redirected to your bank’s netbanking page for authentication.,You will be redirected to your bank’s netbanking page for authentication.
+paynow.pm.online_banking.auth_info.note,,You will be redirected to your bank’s netbanking page for authenticating a <b>one-time payment.</b> The next payment for this subscription’s will not be paid automatically.,You will be redirected to your bank’s netbanking page for authenticating a <b>one-time payment.</b> The next payment for this subscription’s will not be paid automatically.
+paynow.pm.rbi.card.mandate.note,Kort utstedt i India kan belastes opp til maksimalt mandatbeløp for tilbakevendende abonnementsbetalinger så lenge mandatet er gyldig. Betalinger over maksimalt mandatbeløp krever OTP-verifisering,Cards issued in India can be charged up to maximum mandate amount for recurring subscription payments until the mandate is valid. Payments above maximum mandate amount require OTP verification.,Cards issued in India can be charged up to maximum mandate amount for recurring subscription payments until the mandate is valid. Payments above maximum mandate amount require OTP verification.
+paynow.pm.rbi.upi.mandate.note,Du kan belastes opp til maksimalt mandatbeløp for gjentakende abonnementsbetalinger så lenge mandatet er gyldig,You can be charged up to maximum mandate amount for recurring subscription payments until the mandate is valid.,You can be charged up to maximum mandate amount for recurring subscription payments until the mandate is valid.
+paynow.pm.rbi.netbanking.mandate.note,Du kan belastes opp til maksimalt mandatbeløp for gjentakende abonnementsbetalinger så lenge mandatet er gyldig,You can be charged up to maximum mandate amount for recurring subscription payments until the mandate is valid.,You can be charged up to maximum mandate amount for recurring subscription payments until the mandate is valid.
+paynow.pm.set_role.title,Sett denne betalingsmetoden som,Set this payment method as,Set this payment method as
+paynow.payment_method_tag.primary,Primær,Primary,Primary
+paynow.pm.primary.warning.txt,Erstatter din nåværende primære betalingsmetode,Replaces your current primary payment method,Replaces your current primary payment method
+paynow.pm.primary.info.txt,Blir belastet for alle dine automatiske betalinger,Charged for all your automatic payments,Charged for all your automatic payments
+paynow.payment_method_tag.backup,Reserve,Backup,Backup
+paynow.pm.backup.info.txt,Reserve når primær svikter,Backup when primary fails,Backup when primary fails
+paynow.pm.backup.warning.txt,Erstatter din nåværende reserve betalingsmetode,Replaces your current backup payment method,Replaces your current backup payment method
+paynow.pm.set_role.title_optional,(Valgfritt),(Optional),(Optional)
+inapp_nl_portal.login.txt,Skriv inn din e-postadresse for å logge inn,Enter your email address to login,Enter your email address to login
+inapp_nl_portal.otp.enter,Skriv inn engangspassordet sendt til din e-post for å fortsette,Enter the one time password sent to your email to continue,Enter the one time password sent to your email to continue
+inapp_nl_portal.password.enter,Skriv inn passordet for kontoen din,Enter the password for your account,Enter the password for your account
+inapp_nl_portal.otp.resend,Send engangspassord på nytt,Resend the one time password,Resend the one time password
+inapp_nl_portal.otp.next,Logg inn,Login,Login
+inapp_nl_portal.login.via_otp,Logg inn via engangspassord,Login via one time password,Login via one time password
+inapp_nl_portal.password.use,Bruk passord i stedet,Enter password instead,Enter password instead
+inapp_nl_portal.login.next,Fortsett,Continue,Continue
+inapp_nl_portal.login.header,Administrer dine abonnementer,Manage Your Subscriptions,Manage Your Subscriptions
+inapp_nl_portal.forgot_password.link.txt,Glemt passord?,Forgot password?,Forgot password?
+inapp_nl_portal.account.summary.additionalInfo,,,
+inapp_checkout.gift.cart.header,Bestillingen din,Your gift order,Your gift order
+inapp_checkout.gift.cart.header.edit,Rediger bestillingen din,Edit your gift order,Edit your gift order
+inapp_checkout.gift.cart.next,Fortsett til kassen,Proceed to checkout,Proceed to checkout
+inapp_checkout.gift.gift_details.header,Legg til gaveinformasjon,Add your gift details,Add your gift details
+inapp_checkout.gift.gift_details.header.edit,Rediger gaveinformasjon,Edit your gift details,Edit your gift details
+inapp_checkout.gift.gift_details.update,Oppdater,Update,Update
+inapp_checkout.gift.gift_details.next,Neste,Next,Next
+inapp_checkout.gift.gift_details.receiver_info.subheading,Hvem er gaven til?,Whom is this gift for?,Whom is this gift for?
+inapp_checkout.gift.gift_details.schedule.subheading,Gavedato og tid,Gift date & time,Gift date & time
+inapp_checkout.gift.gift_details.schedule.immediately,Send umiddelbart,Send immediately,Send immediately
+inapp_checkout.gift.gift_details.schedule.date,Send på spesifikk dato og tid,Send on specific date and time,Send on specific date and time
+inapp_checkout.gift.gift_details.message.subheading,Personlig melding,Personal message,Personal message
+inapp_checkout.gift.gift_details.message.helptext,Meldingen vil bli sendt til mottakeren med gaven din,The message will be sent to the recipient with your gift,The message will be sent to the recipient with your gift
+inapp_checkout.gift.gift_details.message.placeholder,Gi din gavebeskjed,Your gift message,Your gift message
+inapp_checkout.gift.customer.header,Legg til mottakerinformasjon,Add recipient information,Add recipient information
+inapp_checkout.gift.customer.header.edit,Rediger mottakerinformasjon,Edit recipient information,Edit recipient information
+inapp_checkout.gift.customer.update,Oppdater,Update,Update
+inapp_checkout.gift.customer.next,Neste,Next,Next
+inapp_checkout.gift.billing_address.update,Oppdater,Update,Update
+inapp_checkout.gift.billing_address.next,Neste,Next,Next
+inapp_checkout.gift.billing_address.header,Legg til faktureringsdetaljer,Add your billing details,Add your billing details
+inapp_checkout.gift.billing_address.header.edit,Rediger faktureringsdetaljer,Edit your billing details,Edit your billing details
+inapp_checkout.gift.shipping_address.header,Legg til mottakers leveringsadresse,Add recipient shipping address,Add recipient shipping address
+inapp_checkout.gift.shipping_address.header.edit,Rediger mottakers leveringsadresse,Edit recipient shipping address,Edit recipient shipping address
+inapp_checkout.gift.shipping_address.update,Oppdater,Update,Update
+inapp_checkout.gift.shipping_address.next,Neste,Next,Next
+inapp_checkout.gift.payment_method.header,Legg til betalingsinformasjon,Add your payment information,Add your payment information
+inapp_checkout.gift.payment_method.header.edit,Rediger betalingsinformasjon,Edit your payment information,Edit your payment information
+inapp_checkout.gift.payment_method.update,Oppdater,Update,Update
+inapp_checkout.gift.payment_method.next,Neste,Next,Next
+inapp_checkout.gift.review.gift.header,Gavedetaljer,Gift details,Gift details
+inapp_checkout.gift.review.gift.your_message.label,Personlig melding,Personal Message,Personal Message
+inapp_checkout.gift.review.gift.from.label,Fra,From,From
+inapp_checkout.gift.review.gift.scheduled_at.label,Planlagt,Scheduled,Scheduled
+inapp_checkout.gift.review.gift.immediately.label,Sendt umiddelbart,Immediately sent,Immediately sent
+inapp_checkout.gift.review.shipping.header,Mottakers leveringsadresse,Recipient shipping address,Recipient shipping address
+inapp_checkout.gift.review.account.header,Mottakerdetaljer,Recipient details,Recipient details
+inapp_checkout.gift.subscription.header,Legg til gaveabonnementdetaljer,Add gift subscription details,Add gift subscription details
+inapp_checkout.gift.subscription.header.edit,Rediger gaveabonnementdetaljer,Edit gift subscription details,Edit gift subscription details
+inapp_checkout.gift.subscription.update,Oppdater,Update,Update
+inapp_checkout.gift.subscription.next,Neste,Next,Next
+inapp_checkout.gift.review.header,Ferdigstill bestillingen din,Complete your order,Complete your order
+inapp_checkout.gift.review.btn.txt,Betal %{amount} og legg inn gavebestilling,Pay %{amount} & place gift order,Pay %{amount} & place gift order
+inapp_checkout.gift.thankyou.header,,,
+inapp_checkout.gift.thankyou.body,,,
+inapp_checkout.gift.thankyou.close,LUKK,CLOSE,CLOSE
+inapp_checkout.gift.review.self_gift.warning,Det ser ut til at du sender gaven til din egen e-postadresse.,You seem to be sending the gift to your own email address.,You seem to be sending the gift to your own email address.
+inapp_checkout.gift.payment_method.note.plan.no_trial,,,
+inapp_checkout.gift.cart.note.plan.no_trial,,,
+inapp_checkout.gift.review.note.plan.no_trial,,,
+inapp_checkout.gift.customer.note,,,
+inapp_checkout.gift.subscription.note,,,
+inapp_checkout.gift.shipping_address.note,,,
+inapp_checkout.gift.billing_address.note,,,
+inapp_checkout.gift.review.threedsWarning.non_trial,Du kan bli omdirigert til bankens side for 3D-sikkerhetsverifisering.,You may be redirected to your bank page for 3D secure verification.,You may be redirected to your bank page for 3D secure verification.
+inapp_checkout.gift.review.threedsWarning.trial,,"You may be redirected to your bank page for 3D secure verification for which a token amount may be charged,which will be fully refunded automatically.","You may be redirected to your bank page for 3D secure verification for which a token amount may be charged,which will be fully refunded automatically."
+inapp_checkout.gift_claim.modal_button.cancel,Avbryt,Cancel,Cancel
+inapp_checkout.gift_claim.modal_button.confirm,Bekreft,Confirm,Confirm
+inapp_checkout.gift_claim.cart.header,Gaven din,Your gift,Your gift
+inapp_checkout.gift_claim.cart.header.edit,Gaven din,Your gift,Your gift
+inapp_checkout.gift_claim.cart.next,Fortsett for å kreve,Proceed to claim,Proceed to claim
+inapp_checkout.gift_claim.cart.body_desc,Gratulerer med gaven! Du må kreve den for å komme i gang!,Congratulations on your gift! You need to claim it to get started!,Congratulations on your gift! You need to claim it to get started!
+inapp_checkout.gift_claim.customer.body_desc,Her er detaljene vi har fått. Du kan oppdatere denne informasjonen om nødvendig.,"Here are the details that we have got. You can update this information, if required.","Here are the details that we have got. You can update this information, if required."
+inapp_checkout.gift_claim.customer.header,Legg til kontoinformasjon,Add your account information,Add your account information
+inapp_checkout.gift_claim.customer.header.edit,Rediger kontoinformasjon,Edit your account information,Edit your account information
+inapp_checkout.gift_claim.customer.update,Oppdater,Update,Update
+inapp_checkout.gift_claim.customer.next,Neste,Next,Next
+inapp_checkout.gift_claim.shipping_address.header,Legg til leveringsadresse,Add your shipping address,Add your shipping address
+inapp_checkout.gift_claim.shipping_address.header.edit,Rediger leveringsadresse,Edit your shipping address,Edit your shipping address
+inapp_checkout.gift_claim.shipping_address.update,Oppdater,Update,Update
+inapp_checkout.gift_claim.shipping_address.next,Neste,Next,Next
+inapp_checkout.gift_claim.shipping_address.body_desc,,,
+inapp_checkout.gift_claim.review.shipping.header,Leveringsadresse,Shipping address,Shipping address
+inapp_checkout.gift_claim.review.account.header,Konto,Account,Account
+inapp_checkout.gift_claim.review.subscription.header,Abonnementsdetaljer,Subscription details,Subscription details
+inapp_checkout.gift_claim.subscription.header,Legg til gaveabonnementdetaljer,Add gift subscription details,Add gift subscription details
+inapp_checkout.gift_claim.subscription.header.edit,Rediger gaveabonnementdetaljer,Edit gift subscription details,Edit gift subscription details
+inapp_checkout.gift_claim.subscription.update,Oppdater,Update,Update
+inapp_checkout.gift_claim.subscription.next,Neste,Next,Next
+inapp_checkout.gift_claim.subscription.body_desc,,,
+inapp_checkout.gift_claim.review.header,Krev gaven din,Claim your gift,Claim your gift
+inapp_checkout.gift_claim.review.btn.txt,Krev gave,Claim Gift,Claim Gift
+inapp_checkout.gift_claim.thankyou.header,,,
+inapp_checkout.gift_claim.thankyou.body,,,
+inapp_checkout.gift_claim.thankyou.close,LUKK,CLOSE,CLOSE
+inapp_checkout.gift_claim.cart.note.plan.no_trial,,,
+inapp_checkout.gift_claim.review.note.plan.no_trial,,,
+inapp_checkout.gift_claim.customer.note,,,
+inapp_checkout.gift_claim.subscription.note,,,
+inapp_checkout.gift_claim.shipping_address.note,,,
+hp_v4.checkout.full_page.action.add,Legg til,Add,Add
+hp_v4.checkout.full_page.action.cart.back,Tilbake til handlekurv,Back to cart,Back to cart
+hp_v4.checkout.full_page.action.cart.next,Fortsett til kassen,Proceed To Checkout,Proceed To Checkout
+hp_v4.checkout.full_page.action.cart.remove,Fjern,Remove,Remove
+hp_v4.checkout.full_page.action.cart_item.hide_details,Skjul detaljer,Hide Details,Hide Details
+hp_v4.checkout.full_page.action.cart_item.see_details,Se detaljer,See Details,See Details
+hp_v4.checkout.full_page.action.change.payment_method,Endre betalingsmetode,Change your payment method,Change your payment method
+hp_v4.checkout.full_page.action.copy_billing_address_to_card,Bruk faktureringsadresse som kortadresse,Use my billing address as card address,Use my billing address as card address
+hp_v4.checkout.full_page.action.copy_shipping_address_to_card,Bruk leveringsadresse som kortadresse,Use my shipping address as card address,Use my shipping address as card address
+hp_v4.checkout.full_page.action.coupons.apply,Bruk,Apply,Apply
+hp_v4.checkout.full_page.action.direct_debit.confirm_and_pay,Bekreft og betal,Confirm and Pay,Confirm and Pay
+hp_v4.checkout.full_page.action.direct_debit.edit,Rediger,Edit,Edit
+hp_v4.checkout.full_page.action.direct_debit.enter_iban,Skriv inn IBAN,Enter IBAN,Enter IBAN
+hp_v4.checkout.full_page.action.direct_debit.enter_local_details,Skriv inn lokale bankdetaljer,Enter local bank details,Enter local bank details
+hp_v4.checkout.full_page.action.direct_debit.got_it,Skjønner,Got it,Got it
+hp_v4.checkout.full_page.action.future_charges.see,Fremtidige kostnader,Future charges,Future charges
+hp_v4.checkout.full_page.action.login,Logg inn,Login,Login
+hp_v4.checkout.full_page.action.login.use_another_account,Bruk en annen konto,Use another account,Use another account
+hp_v4.checkout.full_page.action.new.payment_method.add,Legg til ny betalingsmetode,Add new payment method,Add new payment method
+hp_v4.checkout.full_page.action.new.shipping_address.add,Legg til ny leveringsadresse,Add new shipping address,Add new shipping address
+hp_v4.checkout.full_page.action.next,Neste,Next,Next
+hp_v4.checkout.full_page.action.order.pay_amount,Betal %{amount},Pay %{amount},Pay %{amount}
+hp_v4.checkout.full_page.action.order.pay_and_subscribe,Betal %{amount} og abonner,Pay %{amount} & subscribe,Pay %{amount} & subscribe
+hp_v4.checkout.full_page.action.order.subscribe,Abonner,Subscribe,Subscribe
+hp_v4.checkout.full_page.action.order_summary.back,Tilbake til bestillingsoversikt,Back to order summary,Back to order summary
+hp_v4.checkout.full_page.action.otp.login,Logg inn med verifikasjonskode,Log in using verification code,Log in using verification code
+hp_v4.checkout.full_page.action.otp.resend,Send verifikasjonskode på nytt,Resend verification code,Resend verification code
+hp_v4.checkout.full_page.action.password.enter_instead,Skriv inn passord i stedet,Enter password instead,Enter password instead
+hp_v4.checkout.full_page.action.payment_method.edit,Rediger betalingsmetode,Edit your payment method,Edit your payment method
+hp_v4.checkout.full_page.action.payment_method.update,Oppdater betalingsmetode,Update payment method,Update payment method
+hp_v4.checkout.full_page.action.proceed,Fortsett,Proceed,Proceed
+hp_v4.checkout.full_page.action.ship_to_my_billing_address,Leveringsadresse er den samme som faktureringsadresse,Shipping address is the same as my billing address,Shipping address is the same as my billing address
+hp_v4.checkout.full_page.action.site.back,Tilbake til nettsted,Back to site,Back to site
+hp_v4.checkout.full_page.direct_debit.ach.setup,Sett opp ACH,Set up ACH,Set up ACH
+hp_v4.checkout.full_page.direct_debit.ending,slutter,ending,ending
+hp_v4.checkout.full_page.header.billing_address.title,Faktureringsadresse,Billing Address,Billing Address
+hp_v4.checkout.full_page.header.card.title,Kort,Card,Card
+hp_v4.checkout.full_page.header.checkout.title,Kasse,Checkout,Checkout
+hp_v4.checkout.full_page.header.choose_payment.title,Betaling,Payment,Payment
+hp_v4.checkout.full_page.header.customer.title,Kontodetaljer,Account Details,Account Details
+hp_v4.checkout.full_page.header.invoice.title,Kjøpsdetaljer,Purchase details,Purchase details
+hp_v4.checkout.full_page.header.order.summary,Bestillingsoversikt,Order summary,Order summary
+hp_v4.checkout.full_page.header.order.title,Handlekurven din,Your cart,Your cart
+hp_v4.checkout.full_page.header.payment_method.title,Betalingsdetaljer,Payment Details,Payment Details
+hp_v4.checkout.full_page.header.recommended_addons.title,Anbefalte tillegg,Recommended addons,Recommended addons
+hp_v4.checkout.full_page.header.shipping_address.title,Leveringsadresse,Shipping Address,Shipping Address
+hp_v4.checkout.full_page.header.subscription.title,Abonnementsdetaljer,Subscription details,Subscription details
+hp_v4.checkout.full_page.header.thank_you.title,Takk for bestillingen din,Thank you for your order,Thank you for your order
+hp_v4.checkout.full_page.info.address,Adresse,Address,Address
+hp_v4.checkout.full_page.info.cart.next_charge,Neste kostnad på %{date},Next charge on %{date},Next charge on %{date}
+hp_v4.checkout.full_page.info.cart.pay_now,Betal nå,Pay now,Pay now
+hp_v4.checkout.full_page.info.cart.trial_info,Du vil bli belastet etter %{plan_trial_period} prøveperiode.,You will be charged after the %{plan_trial_period} trial.,You will be charged after the %{plan_trial_period} trial.
+hp_v4.checkout.full_page.info.coupon.description,%{amount} kupong brukt,%{amount} coupon applied,%{amount} coupon applied
+hp_v4.checkout.full_page.info.coupons.apply,Bruk kupong,Apply coupon,Apply coupon
+hp_v4.checkout.full_page.info.coupons_applied,Kuponger brukt,Coupons applied,Coupons applied
+hp_v4.checkout.full_page.info.credits_applicable,Kreditter tilgjengelig,Credits Applicable,Credits Applicable
+hp_v4.checkout.full_page.info.credits_applied,Kreditter brukt,Credits applied,Credits applied
+hp_v4.checkout.full_page.info.credits_generated,Kreditter generert,Credits generated,Credits generated
+hp_v4.checkout.full_page.info.customer.account_details,Kontodetaljer,Account Details,Account Details
+hp_v4.checkout.full_page.info.customer.email_address,E-postadresse,Email Address,Email Address
+hp_v4.checkout.full_page.info.enter_password,Skriv inn passordet for kontoen,Enter the password for the account,Enter the password for the account
+hp_v4.checkout.full_page.info.free_quantity.description,%{units} enheter gratis,%{units} units free,%{units} units free
+hp_v4.checkout.full_page.info.item_type.addon,TILLEGG,ADDON,ADDON
+hp_v4.checkout.full_page.info.item_type.charge,ENGANGS,ONE-TIME,ONE-TIME
+hp_v4.checkout.full_page.info.item_type.plan,PLAN,PLAN,PLAN
+hp_v4.checkout.full_page.info.metered_billing_desc,Belastes basert på bruk,Charged based on usage,Charged based on usage
+hp_v4.checkout.full_page.info.metered_billing_disclaimer,Fremtidige kostnader vil være basert på bruk,Future charges will be based on usage,Future charges will be based on usage
+hp_v4.checkout.full_page.info.order.edit,Rediger bestilling,Edit order,Edit order
+hp_v4.checkout.full_page.info.order.your_order_summary,Bestillingsoversikt,Order summary,Order summary
+hp_v4.checkout.full_page.info.order_summary.charge_now,Kan belastes nå,Chargeable now,Chargeable now
+hp_v4.checkout.full_page.info.order_summary.next_charge,Blir belastet %{date},Charges on %{date},Charges on %{date}
+hp_v4.checkout.full_page.info.order_summary.sub_total,Subtotal,Subtotal,Subtotal
+hp_v4.checkout.full_page.info.order_summary.threeds_authorize,Jeg autoriserer %{organisation_name} til å lagre denne betalingsmetoden og automatisk belaste denne betalingsmetoden når et abonnement er tilknyttet den.,I authorize %{organisation_name} to save this payment method and automatically charge this payment method whenever a subscription is associated with it.,I authorize %{organisation_name} to save this payment method and automatically charge this payment method whenever a subscription is associated with it.
+hp_v4.checkout.full_page.info.order_summary.threeds_non_trial,Du kan bli omdirigert til bankens side for 3D-sikkerhetsverifisering.,You may be redirected to your bank page for 3D secure verification.,You may be redirected to your bank page for 3D secure verification.
+hp_v4.checkout.full_page.info.order_summary.threeds_trial,,"You may be redirected to your bank page for 3D secure verification for which a token amount may be charged,which will be fully refunded automatically.","You may be redirected to your bank page for 3D secure verification for which a token amount may be charged,which will be fully refunded automatically."
+hp_v4.checkout.full_page.info.order_summary.total,Total,Total,Total
+hp_v4.checkout.full_page.info.otp.enter,Skriv inn din sekssifrede verifikasjonskode,Enter your six digit verification code,Enter your six digit verification code
+hp_v4.checkout.full_page.info.otp.resend_notify,Nytt engangspassord sendt til din e-postadresse,New one time password send to your email address,New one time password send to your email address
+hp_v4.checkout.full_page.info.otp_email.description,Engangspassordet er gyldig i 5 minutter fra det er generert,The one time password is valid for 5 minutes from the time it is generated.,The one time password is valid for 5 minutes from the time it is generated.
+hp_v4.checkout.full_page.info.otp_email.line,%{otp} er ditt engangspassord,%{otp} is your one time password,%{otp} is your one time password
+hp_v4.checkout.full_page.info.otp_email.salutation,"Hei,","Hi there,","Hi there,"
+hp_v4.checkout.full_page.info.otp_email.sent,Verifikasjonskode sendt. Sjekk e-posten din.,Verification code sent. Check your email.,Verification code sent. Check your email.
+hp_v4.checkout.full_page.info.otp_email.subject,Ditt engangspassord (OTP),Your One Time Password (OTP),Your One Time Password (OTP)
+hp_v4.checkout.full_page.info.otp_sms.description,%{otp} er ditt engangspassord. Engangspassordet er gyldig i 5 minutter fra det er generert.,%{otp} is your one time password. The one time password is valid for 5 minutes from the time it is generated.,%{otp} is your one time password. The one time password is valid for 5 minutes from the time it is generated.
+hp_v4.checkout.full_page.info.password.enter,Skriv inn passordet ditt,Enter your password,Enter your password
+hp_v4.checkout.full_page.info.payable_now,Betales nå,Payable now,Payable now
+hp_v4.checkout.full_page.info.payment_method.consent,Jeg autoriserer %{organisation_name} til å lagre denne betalingsmetoden og automatisk belaste denne betalingsmetoden for fremtidige transaksjoner tilknyttet den.,I authorize %{organisation_name} to save this payment method and automatically charge this payment method for any future transactions associated with it.,I authorize %{organisation_name} to save this payment method and automatically charge this payment method for any future transactions associated with it.
+hp_v4.checkout.full_page.info.payment_method.never_save,Din betalingsinformasjon vil ikke bli lagret i vårt system.,Your payment information will not be saved in our system.,Your payment information will not be saved in our system.
+hp_v4.checkout.full_page.info.payment_method.opm_ach_credit_description,Du kan foreta betalingen til bankkontodetaljene som er oppgitt i fakturaen,You can make the payment to the bank account details present in the invoice,You can make the payment to the bank account details present in the invoice
+hp_v4.checkout.full_page.info.payment_method.opm_bank_transfer_description,Du kan foreta betalingen til bankkontodetaljene som er oppgitt i fakturaen,You can make the payment to the bank account details present in the invoice,You can make the payment to the bank account details present in the invoice
+hp_v4.checkout.full_page.info.payment_method.opm_cash_description,Du kan betale med kontanter,You can make the payment by cash,You can make the payment by cash
+hp_v4.checkout.full_page.info.payment_method.opm_check_description,Du finner betalingsoverføringsdetaljene som en del av fakturaen,You can find the payment transfer details as part of the invoice,You can find the payment transfer details as part of the invoice
+hp_v4.checkout.full_page.info.payment_method.opm_sepa_credit_description,Du kan foreta betalingen til bankkontodetaljene som er oppgitt i fakturaen,You can make the payment to the bank account details present in the invoice,You can make the payment to the bank account details present in the invoice
+hp_v4.checkout.full_page.info.payment_method.replace_primary_source,Lagre dette for fremtidige transaksjoner,Save this for your future transactions,Save this for your future transactions
+hp_v4.checkout.full_page.info.payment_method.replace_primary_source_desc,Dette vil erstatte din eksisterende betalingsmetode.,This will replace your existing payment method.,This will replace your existing payment method.
+hp_v4.checkout.full_page.info.payment_method.save,Lagre dette til listen over betalingsmetoder,Save this to your list of payment methods,Save this to your list of payment methods
+hp_v4.checkout.full_page.info.payment_method.save_desc,Du kan bruke denne betalingsmetoden for fremtidige transaksjoner.,You can use this payment method for your future transactions.,You can use this payment method for your future transactions.
+hp_v4.checkout.full_page.info.payment_method_card_rbi_mandate,Kort utstedt i India kan belastes opp til maksimalt mandatbeløp for gjentakende abonnementsbetalinger så lenge mandatet er gyldig. Betalinger over maksimalt mandatbeløp krever OTP-verifisering.,Cards issued in India can be charged up to maximum mandate amount for recurring subscription payments until the mandate is valid. Payments above maximum mandate amount require OTP verification.,Cards issued in India can be charged up to maximum mandate amount for recurring subscription payments until the mandate is valid. Payments above maximum mandate amount require OTP verification.
+hp_v4.checkout.full_page.info.payment_method_card_stripe_india_mandate,For kort utstedt i India sikrer en e-mandat automatiske gjentakende betalinger. Mandatet spesifiserer brede vilkår slik at variasjoner i gjentakende kostnader ikke krever din manuelle bekreftelse. Du vil bli belastet i henhold til planen du abonnerer på.,"For cards issued in India, an e-mandate ensures automatic recurring payments. The mandate specifies broad terms so variations in recurring charges do not require your manual confirmation. You will be charged according to the plan you subscribe to.","For cards issued in India, an e-mandate ensures automatic recurring payments. The mandate specifies broad terms so variations in recurring charges do not require your manual confirmation. You will be charged according to the plan you subscribe to."
+hp_v4.checkout.full_page.info.payment_redirect,Du vil bli sendt til %{payment_method} for autentisering og deretter omdirigert hit for å bekrefte kjøpet ditt.,You will be directed to %{payment_method} for authentication and then redirected here to confirm your purchase.,You will be directed to %{payment_method} for authentication and then redirected here to confirm your purchase.
+hp_v4.checkout.full_page.info.po_number,PO-nummer,PO Number,PO Number
+hp_v4.checkout.full_page.info.promotional_credits,Promosjonskreditter,Promotional Credits,Promotional Credits
+hp_v4.checkout.full_page.info.quantity,Antall,Qty,Qty
+hp_v4.checkout.full_page.info.secure_chargebee_checkout,av Chargebee,by Chargebee,by Chargebee
+hp_v4.checkout.full_page.info.secure_checkout_message,Sikker utsjekking,Secure Checkout,Secure Checkout
+hp_v4.checkout.full_page.info.subscription.multiple_not_allowed,Du har allerede et abonnement hos oss,You already have a subscription with us,You already have a subscription with us
+hp_v4.checkout.full_page.info.term.day,dag,day,day
+hp_v4.checkout.full_page.info.term.days,dager,days,days
+hp_v4.checkout.full_page.info.term.month,måned,month,month
+hp_v4.checkout.full_page.info.term.months,måneder,months,months
+hp_v4.checkout.full_page.info.term.week,uke,week,week
+hp_v4.checkout.full_page.info.term.weeks,uker,weeks,weeks
+hp_v4.checkout.full_page.info.term.year,år,year,year
+hp_v4.checkout.full_page.info.term.years,år,years,years
+hp_v4.checkout.full_page.info.thank_you.message,Vi har bygget et fantastisk forhold og håper å se deg tilbake i vår utsjekking,We have build an amazing relationship and hope to see you back in our Checkout,We have build an amazing relationship and hope to see you back in our Checkout
+hp_v4.checkout.full_page.info.units,enheter,units,units
+hp_v4.checkout.full_page.info.verification_sent,Verifikasjonskode sendt til,Verification code sent to,Verification code sent to
+hp_v4.checkout.full_page.info.word.item,element,item,item
+hp_v4.checkout.full_page.info.word.items,elementer,items,items
+hp_v4.checkout.full_page.manage_payment.action.payment_method.add.title,Legg til betalingsmetode,Add payment method,Add payment method
+hp_v4.checkout.full_page.manage_payment.action.payment_method.backup.remove,Fjern reserve betalingsmetode,Remove backup payment method,Remove backup payment method
+hp_v4.checkout.full_page.manage_payment.action.payment_method.backup.set,Sett reserve betalingsmetode,Set backup payment method,Set backup payment method
+hp_v4.checkout.full_page.manage_payment.action.payment_method.cancel,Avbryt,Cancel,Cancel
+hp_v4.checkout.full_page.manage_payment.action.payment_method.choose.title,Velg en betalingsmetode,Choose a payment method,Choose a payment method
+hp_v4.checkout.full_page.manage_payment.action.payment_method.choose_diff.title,Velg en annen betalingsmetode,Choose a different payment method,Choose a different payment method
+hp_v4.checkout.full_page.manage_payment.action.payment_method.confirm,Bekreft,Confirm,Confirm
+hp_v4.checkout.full_page.manage_payment.action.payment_method.edit,Rediger,Edit,Edit
+hp_v4.checkout.full_page.manage_payment.action.payment_method.edit.title,Rediger betalingsmetode,Edit payment method,Edit payment method
+hp_v4.checkout.full_page.manage_payment.action.payment_method.primary.set,Sett primær betalingsmetode,Set primary payment method,Set primary payment method
+hp_v4.checkout.full_page.manage_payment.action.payment_method.remove,Fjern,Remove,Remove
+hp_v4.checkout.full_page.manage_payment.action.payment_method.remove.title,Fjern betalingsmetode,Remove payment method,Remove payment method
+hp_v4.checkout.full_page.manage_payment.action.payment_method.save,Lagre,Save,Save
+hp_v4.checkout.full_page.manage_payment.action.payment_method.skip,Hopp over,Skip,Skip
+hp_v4.checkout.full_page.manage_payment.action.payment_method.update.title,Oppdater betalingsmetode,Update payment method,Update payment method
+hp_v4.checkout.full_page.manage_payment.action.role.backup.remove,Fjern reserve,Remove backup,Remove backup
+hp_v4.checkout.full_page.manage_payment.action.role.backup.set,Sett reserve,Set backup,Set backup
+hp_v4.checkout.full_page.manage_payment.action.role.primary.set,Sett primær,Set Primary,Set Primary
+hp_v4.checkout.full_page.manage_payment.header.payment_method.add_new,Legg til ny betalingsmetode,Add new payment method,Add new payment method
+hp_v4.checkout.full_page.manage_payment.header.payment_methods.title,Betalingsmetoder,Payment methods,Payment methods
+hp_v4.checkout.full_page.manage_payment.info.payment_method.added.title,Betalingsmetode lagt til,Payment method added,Payment method added
+hp_v4.checkout.full_page.manage_payment.info.payment_method.auto_payment.title,Alle dine automatiske betalinger vil bli belastet til denne metoden.,All your automatic payments will be charged to this method.,All your automatic payments will be charged to this method.
+hp_v4.checkout.full_page.manage_payment.info.payment_method.backup,Reserve,Backup,Backup
+hp_v4.checkout.full_page.manage_payment.info.payment_method.backup.fail.title,Reserver brukes når din primære betalingsmetode svikter.,Backups are used when your primary payment method fails.,Backups are used when your primary payment method fails.
+hp_v4.checkout.full_page.manage_payment.info.payment_method.backup.removed,Reserve betalingsmetode fjernet,Backup payment method removed,Backup payment method removed
+hp_v4.checkout.full_page.manage_payment.info.payment_method.backup.replace,Dette vil erstatte din nåværende reserve betalingsmetode,This will replace your current backup payment method,This will replace your current backup payment method
+hp_v4.checkout.full_page.manage_payment.info.payment_method.backup.updated,Reserve betalingsmetode oppdatert,Backup payment method updated,Backup payment method updated
+hp_v4.checkout.full_page.manage_payment.info.payment_method.expired,Utløpt,Expired,Expired
+hp_v4.checkout.full_page.manage_payment.info.payment_method.primary,Primær,Primary,Primary
+hp_v4.checkout.full_page.manage_payment.info.payment_method.primary.replace,Dette vil erstatte din nåværende primære betalingsmetode,This will replace your current primary payment method,This will replace your current primary payment method
+hp_v4.checkout.full_page.manage_payment.info.payment_method.primary.updated,Primær betalingsmetode oppdatert,Primary payment method updated,Primary payment method updated
+hp_v4.checkout.full_page.manage_payment.info.payment_method.remove.confirm,Er du sikker på at du vil fjerne denne betalingsmetoden?,Are you sure you want to remove this payment method?,Are you sure you want to remove this payment method?
+hp_v4.checkout.full_page.manage_payment.info.payment_method.removed.title,Betalingsmetode fjernet,Payment method removed,Payment method removed
+hp_v4.checkout.full_page.manage_payment.info.payment_method.set_as.title,Sett denne betalingsmetoden som,Set this payment method as,Set this payment method as
+hp_v4.checkout.full_page.manage_payment.info.payment_method.updated.title,Betalingsmetode oppdatert,Payment method updated,Payment method updated
+hp_v4.checkout.full_page.manage_payment.warn.payment_method.primary_fails.title,Dette vil være reserven hvis din primære betalingsmetode svikter.,This will be the backup if your primary payment method fails.,This will be the backup if your primary payment method fails.
+hp_v4.checkout.full_page.place_holder.coupons.enter_code,Skriv inn kupongkode,Enter coupon code,Enter coupon code
+hp_v4.checkout.full_page.place_holder.customer.enter_email,Skriv inn e-post,Enter email,Enter email
+hp_v4.checkout.full_page.place_holder.otp.six_digit,Sekssifret OTP,Six-digit OTP,Six-digit OTP
+hp_v4.checkout.full_page.place_holder.pick_your_country,Velg et land,Pick a Country,Pick a Country
+hp_v4.checkout.full_page.place_holder.pick_your_option,Velg et alternativ,Pick a Option,Pick a Option
+hp_v4.checkout.full_page.place_holder.pick_your_state,Velg en stat,Pick a State,Pick a State
+hp_v4.checkout.full_page.place_holder.your_password,Passordet ditt,Your Password,Your Password
+hp_v4.checkout.full_page.warn.abn.invalid,Ugyldig ABN,Invalid ABN,Invalid ABN
+hp_v4.checkout.full_page.warn.abn.required,Vennligst skriv inn din ABN,Please Enter your ABN,Please Enter your ABN
+hp_v4.checkout.full_page.warn.abn.undetermined,Kan ikke behandle ABN da ABN Lookup-serveren er nede.,Unable to process the ABN as the ABN Lookup server is down.,Unable to process the ABN as the ABN Lookup server is down.
+hp_v4.checkout.full_page.warn.accept_terms_conditions,Du må godta vilkårene for å fortsette,You must accept the conditions to proceed,You must accept the conditions to proceed
+hp_v4.checkout.full_page.warn.coupon_code.invalid,Ugyldig kupongkode,Invalid coupon code,Invalid coupon code
+hp_v4.checkout.full_page.warn.empty.cart,Vi har ikke funnet noen varer i handlekurven din for utsjekking.,We have found no items added in your cart to checkout.,We have found no items added in your cart to checkout.
+hp_v4.checkout.full_page.warn.field.required,Dette feltet er påkrevd,This field is required,This field is required
+hp_v4.checkout.full_page.warn.otp.enter,Vennligst skriv inn din verifikasjonskode.,Please enter your verification code.,Please enter your verification code.
+hp_v4.checkout.full_page.warn.password.enter,Vennligst skriv inn passordet ditt,Please enter your password,Please enter your password
+hp_v4.checkout.full_page.warn.payment.enter,Vennligst oppgi dine betalingsdetaljer,Please provide your payment details,Please provide your payment details
+hp_v4.checkout.full_page.warn.quantity.valid,Skriv inn gyldig mengde,Enter valid quantity,Enter valid quantity
+hp_v4.checkout.full_page.warn.quantity_range.error,Mengden må være i området %{min}-%{max}.,Quantity must be in the range of %{min}-%{max}.,Quantity must be in the range of %{min}-%{max}.
+hp_v4.checkout.full_page.warn.quantity_step.error,Mengden må være i området %{min}-%{max} med økninger på %{step}.,Quantity must be in the range of %{min}-%{max} with increments of %{step}.,Quantity must be in the range of %{min}-%{max} with increments of %{step}.
+hp_v4.checkout.full_page.warn.vat.invalid,Ugyldig MVA-nummer,Invalid VAT Number,Invalid VAT Number
+hp_v4.checkout.full_page.warn.vat.required,Vennligst skriv inn ditt MVA-nummer,Please Enter your VAT Number,Please Enter your VAT Number
+hp_v4.checkout.full_page.warn.vat.undetermined,Kunne ikke validere MVA-nummer da VIES-tjenesten er utilgjengelig.,Could not validate VAT number as VIES service is unavailable.,Could not validate VAT number as VIES service is unavailable.
+hp_v3.view_voucher.header.txt,Boletovoucher,Your boleto voucher,Your boleto voucher
+hp_v3.view_voucher.email.sent,En kopi av din voucher er sendt til din e-postadresse.,A copy of your voucher has been sent to your Email ID.,A copy of your voucher has been sent to your Email ID.
+hp_v3.view_voucher.download.pdf,Last ned PDF,Download PDF,Download PDF
+hp_v3.view_voucher.copy.number,Kopinummer,Copy Number,Copy Number
+hp_v3.view_voucher.copy.link,Kopilenke for deling,Copy link for sharing,Copy link for sharing
+hp_v3.view_voucher.boleto.number,Boletovnummer,Boleto Number,Boleto Number
+hp_v3.view_voucher.expires.at,Utløper den,Expires at,Expires at

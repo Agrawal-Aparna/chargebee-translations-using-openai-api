@@ -1,0 +1,2 @@
+key,value,reference value,description
+subscription.api_restricted_with_multi_frequency_addon,,This API operation is not allowed because multi frequency addon feature is enabled,Multi frequency addon error message when API operation is restricted

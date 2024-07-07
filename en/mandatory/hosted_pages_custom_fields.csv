@@ -1,0 +1,7 @@
+key,value,reference value,description
+dy.custom_field.customer.cf_Lexolve_company_id.label,,Lexolve company id,
+dy.custom_field.customer.cf_Lexolve_company_id.help,,,
+dy.custom_field.customer.cf_Lexolve_company_id.placeholder,,,
+dy.custom_field.customer.cf_Migrated_from_advokatt.label,,Migrated from advokatt,
+dy.custom_field.customer.cf_Migrated_from_advokatt.help,,,
+dy.custom_field.customer.cf_Migrated_from_advokatt.placeholder,,,

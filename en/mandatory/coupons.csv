@@ -1,0 +1,7 @@
+key,value,reference value,description
+dy.coupon.name.100RABATT,,100% rabatt,Name for the Coupon : 100RABATT
+dy.coupon.invoice_name.100RABATT,,,Invoice Name for the Coupon : 100RABATT
+dy.coupon.invoice_notes.100RABATT,,,Invoice Notes for the Coupon : 100RABATT
+dy.coupon.name.50RABATT,,50% rabatt,Name for the Coupon : 50RABATT
+dy.coupon.invoice_name.50RABATT,,,Invoice Name for the Coupon : 50RABATT
+dy.coupon.invoice_notes.50RABATT,,,Invoice Notes for the Coupon : 50RABATT

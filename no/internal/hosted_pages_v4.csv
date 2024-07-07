@@ -1,0 +1,37 @@
+key,value,reference value,description
+hp_v4.checkout.full_page.info.gocardless.privacy_prefix,Betalinger av GoCardless. Les,"Payments by GoCardless. Read the ","Payments by GoCardless. Read the "
+hp_v4.checkout.full_page.info.mandate_review.title,Gjennomgå detaljer om mandat,Review mandate details,Review mandate details
+hp_v4.checkout.full_page.place_holder.direct_debit.issuing_country_code,Land,Country,Country
+hp_v4.checkout.full_page.info.gocardless.privacy_suffix,GoCardless personvernerklæring,GoCardless privacy notice.,GoCardless privacy notice.
+hp_v4.checkout.full_page.place_holder.direct_debit.bank_code,Bankkode,Bank Code,Bank Code
+hp_v4.checkout.full_page.info.mandate_review.card.purpose,Formål,Purpose,Purpose
+hp_v4.checkout.full_page.info.mandate_review.card.validity.until_card_expiry,Inntil kortets utløpsdato,Until card expiry,Until card expiry
+hp_v4.checkout.full_page.place_holder.direct_debit.iban,IBAN,IBAN,IBAN
+hp_v4.checkout.full_page.error.field.email.invalid,bør være en gyldig e-post,should be a valid email,should be a valid email
+hp_v4.checkout.full_page.info.mandate_review.card.max_auto_debit_amount,Maksimalt beløp for automatisk trekk,Max Auto debit amount,Max Auto debit amount
+hp_v4.checkout.full_page.place_holder.direct_debit.email,E-post,Email,Email
+hp_v4.checkout.full_page.place_holder.direct_debit.last_name,Etternavn,Last Name,Last Name
+hp_v4.checkout.full_page.error.field.length.max,skal ikke ha mer enn %{max} tegn,should not have more than %{max} characters,should not have more than %{max} characters
+hp_v4.checkout.full_page.place_holder.direct_debit.swedish_identity_number,Svensk identitetsnummer,Swedish Identity Number,Swedish Identity Number
+hp_v4.checkout.full_page.place_holder.direct_debit.routing_number,Avdelingskode,Branch Code,Branch Code
+hp_v4.checkout.full_page.error.field.required,Dette feltet er obligatorisk,This field is required,This field is required
+hp_v4.checkout.full_page.place_holder.direct_debit.account_type.savings,Sparepenger,Savings,Savings
+hp_v4.checkout.full_page.place_holder.direct_debit.account_type.checking,Kontrollerer,Checking,Checking
+hp_v4.checkout.full_page.place_holder.direct_debit.account_number,Kontonummer,Account Number,Account Number
+hp_v4.checkout.full_page.info.optional,(optional),(optional),(optional)
+hp_v4.checkout.full_page.place_holder.direct_debit.pay_as_personal,Betal som enkeltperson,Pay as an individual,Pay as an individual
+hp_v4.checkout.full_page.info.mandate_review.card.billing_frequency,Faktureringsfrekvens,Billing Frequency,Billing Frequency
+hp_v4.checkout.full_page.info.gocardless.bacs.protected_prefix,Betalningene dine er beskyttet av,Your payments are protected by,Your payments are protected by
+hp_v4.checkout.full_page.error.default_error,Noe gikk galt,Something went wrong,Something went wrong
+hp_v4.checkout.full_page.info.mandate_review.card.validity,Gyldighet,Validity,Validity
+hp_v4.checkout.full_page.error.payment_method_init_failed,En feil oppstod! Vennligst velg en annen betalingsmetode og prøv igjen,An error occurred! Please select a different payment method and try again.,An error occurred! Please select a different payment method and try again.
+hp_v4.checkout.full_page.info.mandate_review.card.billing_frequency.until_expiry,Du kan bli belastet når som helst frem til utløp,You may be charged any time until expiry,You may be charged any time until expiry
+hp_v4.checkout.full_page.info.mandate_review.card.purpose.subscription,Abonnement,Subscription,Subscription
+hp_v4.checkout.full_page.place_holder.direct_debit.pay_as_business,Betal som en bedrift,Pay as a business,Pay as a business
+hp_v4.checkout.full_page.error.field.length.min_max,bør være mellom %{min} og %{max} tegn,should be between %{min} and %{max} characters,should be between %{min} and %{max} characters
+hp_v4.checkout.full_page.error.invalid_payment_details,Ugyldige betalingsdetaljer,Invalid payment details,Invalid payment details
+hp_v4.checkout.full_page.info.gocardless.bacs.protected_suffix,Direkte Debet Garanti,Direct Debit Guarantee,Direct Debit Guarantee
+hp_v4.checkout.full_page.place_holder.direct_debit.first_name,Fornavn,First Name,First Name
+hp_v4.checkout.full_page.info.tax.inclusive_of,Inkludert i,Inclusive of,Inclusive of
+hp_v4.checkout.full_page.place_holder.direct_debit.account_type,Kontotype,Account Type,Account Type
+hp_v4.checkout.full_page.place_holder.direct_debit.company,Selskap,Company,Company

@@ -1,0 +1,7 @@
+key,value,reference value,description
+dy.organization_detail.organization_name,,Lexolve AS,Organization Name for the Organization Detail
+dy.organization_detail.address_line1,,Kongens gate 3,Address Line1 for the Organization Detail
+dy.organization_detail.address_line2,,,Address Line2 for the Organization Detail
+dy.organization_detail.address_line3,,,Address Line3 for the Organization Detail
+dy.organization_detail.city,,Oslo,City for the Organization Detail
+dy.organization_detail.state,,Oslo,State for the Organization Detail
